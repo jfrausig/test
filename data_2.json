@@ -82,5 +82,41 @@
    "name": "9. PV module delamination",
    "parent": 12,
    "size": 3812
+ },
+  {
+   "id": 15,
+   "name": "Uptime",
+   "parent": 1,
+   "size": null
+ },
+ {
+   "id": 16,
+   "name": "IV. Cell physical damage",
+   "parent": 15,
+   "size": 3812
+ },
+ {
+   "id": 17,
+   "name": "10. Encapsulant delamination",
+   "parent": 16,
+   "size": 3812
+ },
+ {
+   "id": 18,
+   "name": "11. Broken front glass",
+   "parent": 16,
+   "size": 3812
+ },
+ {
+   "id": 19,
+   "name": "V. Glass",
+   "parent": 15,
+   "size": 3812
+ },
+ {
+   "id": 20,
+   "name": "12. Cell physical damage",
+   "parent": 19,
+   "size": 3812
  }
 ]
