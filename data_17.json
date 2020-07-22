@@ -34,5 +34,23 @@
    "name": "3. Cell heat damage (arid)",
    "parent": 3,
    "size": 3812
+ },
+ {
+   "id": 7,
+   "name": "4. Cell heat damage (moderate)",
+   "parent": 3,
+   "size": 3812
+ },
+ {
+   "id": 8,
+   "name": "II. Encapsulant delamination",
+   "parent": 2,
+   "size": 3812
+ },
+ {
+   "id": 9,
+   "name": "5. Cell discoloring",
+   "parent": 8,
+   "size": 3812
  }
 ]
