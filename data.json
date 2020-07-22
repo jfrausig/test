@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "name": "flare"
+    "name": "O&M"
   },
   {
     "id": 2,
-    "name": "analytics",
+    "name": "Performance",
     "parent": 1
   },
   {
     "id": 3,
-    "name": "cluster",
+    "name": "Uptime",
     "parent": 2
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "id": 16,
-    "name": "animate",
+    "name": "Performance",
     "parent": 1
   },
   {
@@ -209,7 +209,7 @@
   },
   {
     "id": 37,
-    "name": "Tween",
+    "name": "Quality",
     "parent": 16,
     "size": 6006
   },
