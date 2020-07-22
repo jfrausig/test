@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "O&M"
+  },
+  {
+    "id": 2,
+    "name": "Performance",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Encapsulant discoloration",
+    "parent": 2
+  },
+  {
+    "id": 4,
+    "name": "Front glass damage",
+    "parent": 3,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "PV module delaminatio, cell heat damage",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "Cell heat damage (arid)",
+    "parent": 3,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "Cell heat damage (moderate)",
+    "parent": 3,
+    "size": 743
+  },
+  {
+    "id": 8,
+    "name": "Encapsulant delamination",
+    "parent": 2
+  },
+  {
+    "id": 9,
+    "name": "Cell discoloring",
+    "parent": 8,
+    "size": 3534
+  },
+ 
+]
