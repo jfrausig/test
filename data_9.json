@@ -1,8 +1,10 @@
 [
-  {
-    "id": 1,
-    "name": "O&M"
-  },
+ {
+   "id": 1,
+   "name": "Maintenance issues",
+   "parent": null,
+   "size": null
+ },
   {
     "id": 2,
     "name": "Performance",
