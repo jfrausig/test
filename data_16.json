@@ -28,5 +28,11 @@
     "name": "PV module delaminatio, cell heat damage",
     "parent": 3,
     "size": 3812
-  }
+  },
+  {
+   "id": 6,
+   "name": "3. Cell heat damage (arid)",
+   "parent": 3,
+   "size": 3812
+ }
 ]
