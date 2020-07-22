@@ -1,21 +1,19 @@
 [
  {
    "id": 1,
-   "name": "Maintenance issues",
-   "parent": null,
-   "size": null
+
  },
  {
    "id": 2,
    "name": "Performance",
    "parent": 1,
-   "size": null
+
  },
  {
    "id": 3,
    "name": "I. Encapsulant discoloration",
    "parent": 2,
-   "size": null
+
  },
  {
    "id": 4,
@@ -87,7 +85,7 @@
    "id": 15,
    "name": "Uptime",
    "parent": 1,
-   "size": null
+
  },
  {
    "id": 16,
@@ -147,7 +145,7 @@
    "id": 25,
    "name": "Quality",
    "parent": 1,
-   "size": null
+
  },
  {
    "id": 26,
