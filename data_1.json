@@ -52,5 +52,35 @@
    "name": "5. Cell discoloring",
    "parent": 8,
    "size": 3812
+ },
+  {
+   "id": 10,
+   "name": "6. Cell physical damage",
+   "parent": 8,
+   "size": 3812
+ },
+ {
+   "id": 11,
+   "name": "7. Back sheet delamination",
+   "parent": 8,
+   "size": 3812
+ },
+ {
+   "id": 12,
+   "name": "III. Ribbon",
+   "parent": 2,
+   "size": 3812
+ },
+ {
+   "id": 13,
+   "name": "8. Corrosion",
+   "parent": 12,
+   "size": 3812
+ },
+ {
+   "id": 14,
+   "name": "9. PV module delamination",
+   "parent": 12,
+   "size": 3812
  }
 ]
