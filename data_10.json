@@ -5,22 +5,24 @@
    "parent": null,
    "size": null
  },
-  {
-    "id": 2,
-    "name": "Performance",
-    "parent": 1
-  },
-  {
-    "id": 3,
-    "name": "Encapsulant discoloration",
-    "parent": 2
-  },
-  {
-    "id": 4,
-    "name": "Front glass damage",
-    "parent": 3,
-    "size": 3938
-  },
+ {
+   "id": 2,
+   "name": "Performance",
+   "parent": 1,
+   "size": null
+ },
+ {
+   "id": 3,
+   "name": "I. Encapsulant discoloration",
+   "parent": 2,
+   "size": null
+ },
+ {
+   "id": 4,
+   "name": "1. Front glass damage",
+   "parent": 3,
+   "size": 3812
+ },
   {
     "id": 5,
     "name": "PV module delaminatio, cell heat damage",
