@@ -148,5 +148,35 @@
    "name": "Quality",
    "parent": 1,
    "size": null
+ },
+  {
+   "id": 26,
+   "name": "VII. Backsheet",
+   "parent": 25,
+   "size": 3812
+ },
+ {
+   "id": 27,
+   "name": "16. Defects",
+   "parent": 26,
+   "size": 3812
+ },
+ {
+   "id": 28,
+   "name": "17. Physical damage",
+   "parent": 26,
+   "size": 3812
+ },
+ {
+   "id": 29,
+   "name": "18. Heat damage, discoloration",
+   "parent": 26,
+   "size": 3812
+ },
+ {
+   "id": 30,
+   "name": "VIII. Junction box",
+   "parent": 26,
+   "size": 3812
  }
 ]
