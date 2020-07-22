@@ -118,5 +118,35 @@
    "name": "12. Cell physical damage",
    "parent": 19,
    "size": 3812
+ },
+ {
+   "id": 21,
+   "name": "13. Glass cracking",
+   "parent": 19,
+   "size": 3812
+ },
+ {
+   "id": 22,
+   "name": "VI. Bypass diode",
+   "parent": 15,
+   "size": 3812
+ },
+ {
+   "id": 23,
+   "name": "14. Failure",
+   "parent": 22,
+   "size": 3812
+ },
+ {
+   "id": 24,
+   "name": "15. Defect",
+   "parent": 22,
+   "size": 3812
+ },
+ {
+   "id": 25,
+   "name": "Quality",
+   "parent": 1,
+   "size": null
  }
 ]
