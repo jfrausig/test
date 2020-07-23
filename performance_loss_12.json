@@ -548,21 +548,21 @@
   {
     "id": 79,
     "name": "PET mechanical",
-    "parent": 78,
+    "parent": 75,
     "size": 3812,
     "color_n": 10
   },
   {
     "id": 80,
     "name": "PET photothermal",
-    "parent": 79,
+    "parent": 76,
     "size": 3812,
     "color_n": 12
   },
   {
     "id": 81,
     "name": "Backsheet discoloration",
-    "parent": 80,
+    "parent": 76,
     "size": 3812,
     "color_n": 11
   },
