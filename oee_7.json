@@ -30,21 +30,21 @@
   {
     "id": 127,
     "name": "Biofilm",
-    "parent": 125,
+    "parent": 126,
     "size": 3812,
     "color_n": 5
   },
   {
     "id": 128,
     "name": "Dust",
-    "parent": 125,
+    "parent": 126,
     "size": 3812,
     "color_n": 6
   },
   {
     "id": 129,
     "name": "Snow",
-    "parent": 125,
+    "parent": 126,
     "size": 3812,
     "color_n": 7
   },
