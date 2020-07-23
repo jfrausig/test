@@ -4,433 +4,433 @@
     "name": "Performance loss",
     "parent": "",
     "size": "",
-    "color_n": "green"
+    "color_n": 0.611982913
   },
   {
     "id": 2,
     "name": "Non-uniform optical coupling",
     "parent": 1,
     "size": "",
-    "color_n": "green"
+    "color_n": 0.17987384
   },
   {
     "id": 3,
     "name": "EVA/glass delamination",
     "parent": 2,
     "size": "",
-    "color_n": "green"
+    "color_n": 0.011232316
   },
   {
     "id": 4,
     "name": "EVA hydrolysis",
     "parent": 3,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.39319589
   },
   {
     "id": 5,
     "name": "Moisture ingress",
     "parent": 4,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.737265401
   },
   {
     "id": 6,
     "name": "EVA mechanical",
     "parent": 5,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.870651377
   },
   {
     "id": 7,
     "name": "EVA discoloration",
     "parent": 6,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.620203026
   },
   {
     "id": 8,
     "name": "EVA photothermal",
     "parent": 7,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.489619587
   },
   {
     "id": 9,
     "name": "EVA photothermal",
     "parent": 6,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.240402146
   },
   {
     "id": 10,
     "name": "PET mechanical",
     "parent": 5,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.685064117
   },
   {
     "id": 11,
     "name": "Backsheet discoloration",
     "parent": 10,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.784782961
   },
   {
     "id": 12,
     "name": "PET photothermal",
     "parent": 11,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.338415383
   },
   {
     "id": 13,
     "name": "PET photothermal",
     "parent": 10,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.865498465
   },
   {
     "id": 14,
     "name": "Moisture ingress",
     "parent": 3,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.751818673
   },
   {
     "id": 15,
     "name": "EVA mechanical",
     "parent": 14,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.440685917
   },
   {
     "id": 16,
     "name": "EVA discoloration",
     "parent": 15,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.457837775
   },
   {
     "id": 17,
     "name": "EVA photothermal",
     "parent": 16,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.230975577
   },
   {
     "id": 18,
     "name": "EVA photothermal",
     "parent": 15,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.606145946
   },
   {
     "id": 19,
     "name": "PET mechanical",
     "parent": 14,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.467601983
   },
   {
     "id": 20,
     "name": "Backsheet discoloration",
     "parent": 19,
     "size": 3812,
-    "color_n": "green"
+    "color_n": 0.030199896
   },
   {
     "id": 21,
     "name": "PET photothermal",
     "parent": 20,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.926947871
   },
   {
     "id": 22,
     "name": "PET photothermal",
     "parent": 19,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.750660066
   },
   {
     "id": 23,
     "name": "EVA mechanical",
     "parent": 3,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.043083709
   },
   {
     "id": 24,
     "name": "EVA discoloration",
     "parent": 23,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.255333121
   },
   {
     "id": 25,
     "name": "EVA photothermal",
     "parent": 24,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.810443934
   },
   {
     "id": 26,
     "name": "EVA photothermal",
     "parent": 25,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.007900194
   },
   {
     "id": 27,
     "name": "EVA discoloration",
     "parent": 2,
     "size": "",
-    "color_n": "red"
+    "color_n": 0.441815524
   },
   {
     "id": 28,
     "name": "EVA photothermal",
     "parent": 27,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.99026427
   },
   {
     "id": 29,
     "name": "EVA photothermal",
     "parent": 2,
     "size": "",
-    "color_n": "red"
+    "color_n": 0.818559192
   },
   {
     "id": 30,
     "name": "Increase resistance",
     "parent": 1,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.284624997
   },
   {
     "id": 31,
     "name": "Metallization corrosion",
     "parent": 30,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.574445117
   },
   {
     "id": 32,
     "name": "Acetic acid",
     "parent": 31,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.375105939
   },
   {
     "id": 33,
     "name": "EVA hydrolysis",
     "parent": 32,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.312340192
   },
   {
     "id": 34,
     "name": "Moisture ingress",
     "parent": 33,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.866874572
   },
   {
     "id": 35,
     "name": "PET mechanical",
     "parent": 34,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.442390161
   },
   {
     "id": 36,
     "name": "Backsheet discoloration",
     "parent": 35,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.062670667
   },
   {
     "id": 37,
     "name": "PET photothermal",
     "parent": 36,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.825059011
   },
   {
     "id": 38,
     "name": "PET photothermal",
     "parent": 35,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.058184017
   },
   {
     "id": 39,
     "name": "EVA mechanical",
     "parent": 34,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.754740629
   },
   {
     "id": 40,
     "name": "EVA photothermal",
     "parent": 39,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.275052274
   },
   {
     "id": 41,
     "name": "EVA/cell delamination",
     "parent": 31,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.613314664
   },
   {
     "id": 42,
     "name": "EVA hydrolysis",
     "parent": 41,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.194990978
   },
   {
     "id": 43,
     "name": "Moisture ingress",
     "parent": 42,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.654580868
   },
   {
     "id": 44,
     "name": "PET mechanical",
     "parent": 43,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.485829864
   },
   {
     "id": 45,
     "name": "Backsheet discoloration",
     "parent": 44,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.158935192
   },
   {
     "id": 46,
     "name": "PET photothermal",
     "parent": 45,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.348501166
   },
   {
     "id": 47,
     "name": "PET photothermal",
     "parent": 44,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.89446869
   },
   {
     "id": 48,
     "name": "EVA mechanical",
     "parent": 43,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.118257055
   },
   {
     "id": 49,
     "name": "EVA photothermal",
     "parent": 48,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.623839456
   },
   {
     "id": 50,
     "name": "Moisture ingress",
     "parent": 41,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.944977123
   },
   {
     "id": 51,
     "name": "PET mechanical",
     "parent": 50,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.125337198
   },
   {
     "id": 52,
     "name": "Backsheet discoloration",
     "parent": 51,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.793689687
   },
   {
     "id": 53,
     "name": "PET photothermal",
     "parent": 52,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.996297931
   },
   {
     "id": 54,
     "name": "PET photothermal",
     "parent": 51,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.197372698
   },
   {
     "id": 55,
     "name": "EVA mechanical",
     "parent": 50,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.773953838
   },
   {
     "id": 56,
     "name": "EVA photothermal",
     "parent": 55,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.811962937
   },
   {
     "id": 57,
     "name": "EVA hydrolysis",
     "parent": 31,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.426707753
   },
   {
     "id": 58,
     "name": "Moisture ingress",
     "parent": 57,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.930005543
   },
   {
     "id": 59,
     "name": "PET mechanical",
     "parent": 58,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.350631887
   },
   {
     "id": 60,
     "name": "Backsheet discoloration",
     "parent": 59,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.238756836
   },
   {
     "id": 61,
     "name": "PET photothermal",
     "parent": 60,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.938810992
   },
   {
     "id": 62,
     "name": "EVA mechanical",
     "parent": 58,
     "size": 3812,
-    "color_n": "red"
+    "color_n": 0.001143
   }
 ]
