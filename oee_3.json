@@ -8,7 +8,7 @@
   },
   {
     "id": 1,
-    "name": "Power loss",
+    "name": "Availability",
     "parent": 0,
     "size": "",
     "color_n": 24
@@ -211,7 +211,7 @@
   },
   {
     "id": 103,
-    "name": "Performance loss",
+    "name": "Performance",
     "parent": 0,
     "size": 3812,
     "color_n": 1
@@ -462,9 +462,16 @@
     "color_n": 11
   },
   {
+    "id": 104,
+    "name": "Quality",
+    "parent": 0,
+    "size": 3812,
+    "color_n": 25
+  },
+  {
     "id": 65,
     "name": "Leakage current",
-    "parent": 103,
+    "parent": 104,
     "size": 3812,
     "color_n": 19
   },
