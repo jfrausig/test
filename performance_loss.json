@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "Maintenance issues",
+    "parent": "",
+    "size": ""
+  },
+  {
+    "id": 2,
+    "name": "Performance",
+    "parent": 1,
+    "size": ""
+  },
+  {
+    "id": 3,
+    "name": "I. Encapsulant discoloration",
+    "parent": 2,
+    "size": ""
+  },
+  {
+    "id": 4,
+    "name": "1. Front glass damage",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 5,
+    "name": "2. PV module delamination, cell heat damage",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "3. Cell heat damage (arid)",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 7,
+    "name": "4. Cell heat damage (moderate)",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 8,
+    "name": "II. Encapsulant delamination",
+    "parent": 2,
+    "size": 3812
+  },
+  {
+    "id": 9,
+    "name": "5. Cell discoloring",
+    "parent": 8,
+    "size": 3812
+  },
+  {
+    "id": 10,
+    "name": "6. Cell physical damage",
+    "parent": 8,
+    "size": 3812
+  },
+  {
+    "id": 11,
+    "name": "7. Back sheet delamination",
+    "parent": 8,
+    "size": 3812
+  },
+  {
+    "id": 12,
+    "name": "III. Ribbon",
+    "parent": 2,
+    "size": 3812
+  },
+  {
+    "id": 13,
+    "name": "8. Corrosion",
+    "parent": 12,
+    "size": 3812
+  },
+  {
+    "id": 14,
+    "name": "9. PV module delamination",
+    "parent": 12,
+    "size": 3812
+  },
+  {
+    "id": 15,
+    "name": "Uptime",
+    "parent": 1,
+    "size": ""
+  },
+  {
+    "id": 16,
+    "name": "IV. Cell physical damage",
+    "parent": 15,
+    "size": 3812
+  },
+  {
+    "id": 17,
+    "name": "10. Encapsulant delamination",
+    "parent": 16,
+    "size": 3812
+  },
+  {
+    "id": 18,
+    "name": "11. Broken front glass",
+    "parent": 16,
+    "size": 3812
+  },
+  {
+    "id": 19,
+    "name": "V. Glass",
+    "parent": 15,
+    "size": 3812
+  },
+  {
+    "id": 20,
+    "name": "12. Cell physical damage",
+    "parent": 19,
+    "size": 3812
+  },
+  {
+    "id": 21,
+    "name": "13. Glass cracking",
+    "parent": 19,
+    "size": 3812
+  },
+  {
+    "id": 22,
+    "name": "VI. Bypass diode",
+    "parent": 15,
+    "size": 3812
+  },
+  {
+    "id": 23,
+    "name": "14. Failure",
+    "parent": 22,
+    "size": 3812
+  },
+  {
+    "id": 24,
+    "name": "15. Defect",
+    "parent": 22,
+    "size": 3812
+  },
+  {
+    "id": 25,
+    "name": "Quality",
+    "parent": 1,
+    "size": ""
+  },
+  {
+    "id": 26,
+    "name": "VII. Backsheet",
+    "parent": 25,
+    "size": 3812
+  },
+  {
+    "id": 27,
+    "name": "16. Defects",
+    "parent": 26,
+    "size": 3812
+  },
+  {
+    "id": 28,
+    "name": "17. Physical damage",
+    "parent": 26,
+    "size": 3812
+  },
+  {
+    "id": 29,
+    "name": "18. Heat damage, discoloration",
+    "parent": 26,
+    "size": 3812
+  },
+  {
+    "id": 30,
+    "name": "VIII. Junction box",
+    "parent": 25,
+    "size": 3812
+  },
+  {
+    "id": 31,
+    "name": "19. Detachment",
+    "parent": 30,
+    "size": 3812
+  },
+  {
+    "id": 32,
+    "name": "IX. Cell damage",
+    "parent": 25,
+    "size": 3812
+  },
+  {
+    "id": 33,
+    "name": "20. Backsheet delamination",
+    "parent": 32,
+    "size": 3812
+  },
+  {
+    "id": 34,
+    "name": "21. PV module delamination",
+    "parent": 32,
+    "size": 3812
+  }
+]
