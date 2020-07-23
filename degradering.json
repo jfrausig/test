@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "Degradation",
+    "parent": "",
+    "size": "",
+    "color_n": 1
+  },
+  {
+    "id": 2,
+    "name": "0. Discoloration",
+    "parent": 1,
+    "size": 3812,
+    "color_n": 2
+  },
+  {
+    "id": 3,
+    "name": "Front discoloration (1)",
+    "parent": 2,
+    "size": 3812,
+    "color_n": 3
+  },
+  {
+    "id": 4,
+    "name": "2A. Mechanical",
+    "parent": 3,
+    "size": 3812,
+    "color_n": 4
+  },
+  {
+    "id": 5,
+    "name": "Rear discoloration (2)",
+    "parent": 2,
+    "size": 3812,
+    "color_n": 5
+  },
+  {
+    "id": 6,
+    "name": "2B. Mechanical",
+    "parent": 5,
+    "size": 3812,
+    "color_n": 6
+  },
+  {
+    "id": 7,
+    "name": "I. Mechanical",
+    "parent": 1,
+    "size": 3812,
+    "color_n": 7
+  },
+  {
+    "id": 8,
+    "name": "2A. Front degradation",
+    "parent": 7,
+    "size": 3812,
+    "color_n": 8
+  },
+  {
+    "id": 9,
+    "name": "Front polymer/glass delamination",
+    "parent": 8,
+    "size": 3812,
+    "color_n": 9
+  },
+  {
+    "id": 10,
+    "name": "3A. Moisture ingress",
+    "parent": 8,
+    "size": 3812,
+    "color_n": 10
+  },
+  {
+    "id": 11,
+    "name": "2B. Rear degradation",
+    "parent": 7,
+    "size": 3812,
+    "color_n": 11
+  },
+  {
+    "id": 12,
+    "name": "Backsheet delamination",
+    "parent": 11,
+    "size": 3812,
+    "color_n": 12
+  },
+  {
+    "id": 13,
+    "name": "3B. Moisture ingress",
+    "parent": 11,
+    "size": 3812,
+    "color_n": 13
+  },
+  {
+    "id": 14,
+    "name": "II. Moisture",
+    "parent": 1,
+    "size": 3812,
+    "color_n": 14
+  },
+  {
+    "id": 15,
+    "name": "3A. Front degradation",
+    "parent": 14,
+    "size": 3812,
+    "color_n": 15
+  },
+  {
+    "id": 16,
+    "name": "Front polymer/glass delamination",
+    "parent": 15,
+    "size": 3812,
+    "color_n": 9
+  },
+  {
+    "id": 17,
+    "name": "Front polymer/cell delamination",
+    "parent": 15,
+    "size": 3812,
+    "color_n": 16
+  },
+  {
+    "id": 18,
+    "name": "4A. Front polymer hydrolysis",
+    "parent": 15,
+    "size": 3812,
+    "color_n": 17
+  },
+  {
+    "id": 19,
+    "name": "3B. Rear degradation",
+    "parent": 14,
+    "size": 3812,
+    "color_n": 18
+  },
+  {
+    "id": 20,
+    "name": "Front polymer/glass delamination",
+    "parent": 19,
+    "size": 3812,
+    "color_n": 9
+  },
+  {
+    "id": 21,
+    "name": "Front polymer/cell delamination",
+    "parent": 19,
+    "size": 3812,
+    "color_n": 16
+  },
+  {
+    "id": 22,
+    "name": "4B. Front polymer hydrolysis",
+    "parent": 19,
+    "size": 3812,
+    "color_n": 19
+  },
+  {
+    "id": 23,
+    "name": "III. Hydrolysis",
+    "parent": 1,
+    "size": 3812,
+    "color_n": 20
+  },
+  {
+    "id": 24,
+    "name": "4A. Front degradation",
+    "parent": 23,
+    "size": 3812,
+    "color_n": 21
+  },
+  {
+    "id": 25,
+    "name": "Front polymer/glass delamination (12)",
+    "parent": 24,
+    "size": 3812,
+    "color_n": 22
+  },
+  {
+    "id": 26,
+    "name": "Corrosion (14)",
+    "parent": 24,
+    "size": 3812,
+    "color_n": 23
+  },
+  {
+    "id": 27,
+    "name": "Front polymer/cell delamination (16)",
+    "parent": 24,
+    "size": 3812,
+    "color_n": 24
+  },
+  {
+    "id": 28,
+    "name": "Acetic acid (18)",
+    "parent": 24,
+    "size": 3812,
+    "color_n": 25
+  },
+  {
+    "id": 29,
+    "name": "4B. Rear degradation",
+    "parent": 23,
+    "size": 3812,
+    "color_n": 26
+  },
+  {
+    "id": 30,
+    "name": "Front polymer/glass delamination (13)",
+    "parent": 29,
+    "size": 3812,
+    "color_n": 27
+  },
+  {
+    "id": 31,
+    "name": "Corrosion (15)",
+    "parent": 29,
+    "size": 3812,
+    "color_n": 28
+  },
+  {
+    "id": 32,
+    "name": "Front polymer/cell delamination (17)",
+    "parent": 29,
+    "size": 3812,
+    "color_n": 29
+  },
+  {
+    "id": 33,
+    "name": "Acetic acid (19)",
+    "parent": 29,
+    "size": 3812,
+    "color_n": 30
+  }
+]
