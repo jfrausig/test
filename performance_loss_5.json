@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Performance loss",
+    "parent": "",
+    "size": ""
+  },
+  {
+    "id": 2,
+    "name": "Non-uniform optical coupling",
+    "parent": 1,
+    "size": ""
+  },
+  {
+    "id": 3,
+    "name": "EVA/glass delamination",
+    "parent": 2,
+    "size": ""
+  },
+  {
+    "id": 4,
+    "name": "EVA hydrolysis",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 5,
+    "name": "Moisture ingress",
+    "parent": 4,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "EVA mechanical",
+    "parent": 5,
+    "size": 3812
+  },
+  {
+    "id": 7,
+    "name": "EVA discoloration",
+    "parent": 6,
+    "size": 3812
+  },
+  {
+    "id": 8,
+    "name": "EVA photothermal",
+    "parent": 7,
+    "size": 3812
+  },
+  {
+    "id": 9,
+    "name": "EVA photothermal",
+    "parent": 6,
+    "size": 3812
+  },
+  {
+    "id": 10,
+    "name": "PET mechanical",
+    "parent": 5,
+    "size": 3812
+  },
+  {
+    "id": 11,
+    "name": "Backsheet discoloration",
+    "parent": 10,
+    "size": 3812
+  },
+  {
+    "id": 12,
+    "name": "PET photothermal",
+    "parent": 11,
+    "size": 3812
+  },
+  {
+    "id": 13,
+    "name": "PET photothermal",
+    "parent": 10,
+    "size": 3812
+  },
+  {
+    "id": 14,
+    "name": "Moisture ingress",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 15,
+    "name": "EVA mechanical",
+    "parent": 14,
+    "size": 3812
+  },
+  {
+    "id": 16,
+    "name": "EVA discoloration",
+    "parent": 15,
+    "size": 3812
+  },
+  {
+    "id": 17,
+    "name": "EVA photothermal",
+    "parent": 16,
+    "size": 3812
+  },
+  {
+    "id": 18,
+    "name": "EVA photothermal",
+    "parent": 15,
+    "size": 3812
+  },
+  {
+    "id": 19,
+    "name": "PET mechanical",
+    "parent": 14,
+    "size": 3812
+  },
+  {
+    "id": 20,
+    "name": "Backsheet discoloration",
+    "parent": 19,
+    "size": 3812
+  },
+  {
+    "id": 21,
+    "name": "PET photothermal",
+    "parent": 20,
+    "size": 3812
+  },
+  {
+    "id": 22,
+    "name": "PET photothermal",
+    "parent": 19,
+    "size": 3812
+  },
+  {
+    "id": 23,
+    "name": "EVA mechanical",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 24,
+    "name": "EVA discoloration",
+    "parent": 23,
+    "size": 3812
+  },
+  {
+    "id": 25,
+    "name": "EVA photothermal",
+    "parent": 24,
+    "size": 3812
+  },
+  {
+    "id": 26,
+    "name": "EVA photothermal",
+    "parent": 25,
+    "size": 3812
+  },
+  {
+    "id": 27,
+    "name": "EVA discoloration",
+    "parent": 2,
+    "size": 3812
+  }
+]
