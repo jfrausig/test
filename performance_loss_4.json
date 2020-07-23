@@ -334,41 +334,5 @@
     "name": "EVA photothermal",
     "parent": 55,
     "size": 3812
-  },
-  {
-    "id": 57,
-    "name": "EVA hydrolysis",
-    "parent": 31,
-    "size": 3812
-  },
-  {
-    "id": 58,
-    "name": "Moisture ingress",
-    "parent": 57,
-    "size": 3812
-  },
-  {
-    "id": 59,
-    "name": "PET mechanical",
-    "parent": 58,
-    "size": 3812
-  },
-  {
-    "id": 60,
-    "name": "Backsheet discoloration",
-    "parent": 59,
-    "size": 3812
-  },
-  {
-    "id": 61,
-    "name": "PET photothermal",
-    "parent": 60,
-    "size": 3812
-  },
-  {
-    "id": 62,
-    "name": "EVA mechanical",
-    "parent": 58,
-    "size": 3812
   }
 ]
