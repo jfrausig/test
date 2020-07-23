@@ -8,10 +8,10 @@
   },
   {
     "id": 1,
-    "name": "Performance loss",
+    "name": "Power loss",
     "parent": 0,
     "size": "",
-    "color_n": 1
+    "color_n": 24
   },
   {
     "id": 2,
@@ -211,10 +211,10 @@
   },
   {
     "id": 103,
-    "name": "Power",
+    "name": "Performance loss",
     "parent": 0,
     "size": 3812,
-    "color_n": 24
+    "color_n": 1
   },
   {
     "id": 30,
