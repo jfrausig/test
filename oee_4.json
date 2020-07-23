@@ -182,13 +182,6 @@
     "color_n": 8
   },
   {
-    "id": 26,
-    "name": "EVA photothermal",
-    "parent": 25,
-    "size": 3812,
-    "color_n": 8
-  },
-  {
     "id": 27,
     "name": "EVA discoloration",
     "parent": 2,
