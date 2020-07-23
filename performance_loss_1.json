@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Performance loss",
+    "parent": "",
+    "size": ""
+  },
+  {
+    "id": 2,
+    "name": "Non-uniform optical coupling",
+    "parent": 1,
+    "size": ""
+  },
+  {
+    "id": 3,
+    "name": "EVA/glass delamination",
+    "parent": 2,
+    "size": ""
+  },
+  {
+    "id": 4,
+    "name": "EVA hydrolysis",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 5,
+    "name": "Moisture ingress",
+    "parent": 4,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "EVA mechanical",
+    "parent": 5,
+    "size": 3812
+  },
+  {
+    "id": 7,
+    "name": "EVA discoloration",
+    "parent": 6,
+    "size": 3812
+  },
+  {
+    "id": 8,
+    "name": "EVA photothermal",
+    "parent": 7,
+    "size": 3812
+  },
+  {
+    "id": 9,
+    "name": "EVA photothermal",
+    "parent": 6,
+    "size": 3812
+  },
+  {
+    "id": 10,
+    "name": "PET mechanical",
+    "parent": 5,
+    "size": 3812
+  },
+  {
+    "id": 11,
+    "name": "Backsheet discoloration",
+    "parent": 10,
+    "size": 3812
+  },
+  {
+    "id": 12,
+    "name": "PET photothermal",
+    "parent": 11,
+    "size": 3812
+  },
+  {
+    "id": 13,
+    "name": "PET photothermal",
+    "parent": 10,
+    "size": 3812
+  },
+  {
+    "id": 14,
+    "name": "Moisture ingress",
+    "parent": 3,
+    "size": 3812
+  }
+]
