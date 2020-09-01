@@ -1,11 +1,12 @@
-[{
+[
+{
   "time": "2020-09-09T21:00:00Z",
-  "latitude[unit=\"degrees_north\"]": "59.666165",
-  "longitude[unit=\"degrees_east\"]": "10.792575",
-  "Total_cloud_cover_entire_atmosphere_Mixed_intervals_Average[unit=\"%\"]": "47.0",
-  "Total_cloud_cover_high_cloud_Mixed_intervals_Average[unit=\"%\"]": "0.0",
-  "Total_cloud_cover_low_cloud_Mixed_intervals_Average[unit=\"%\"]": "47.0",
-  "Total_cloud_cover_middle_cloud_Mixed_intervals_Average[unit=\"%\"]": "0.0",
+  "latitude": "59.666165",
+  "longitude": "10.792575",
+  "Total_cloud_cover_entire_atmosphere_Mixed_intervals_Average": "47.0",
+  "Total_cloud_cover_high_cloud_Mixed_intervals_Average": "0.0",
+  "Total_cloud_cover_low_cloud_Mixed_intervals_Average": "47.0",
+  "Total_cloud_cover_middle_cloud_Mixed_intervals_Average": "0.0",
   "Timestamp": 1599685200000,
   "Time": 0.125,
   "Julian_Day": 2459102.375,
