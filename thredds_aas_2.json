@@ -1,4 +1,4 @@
-{
+[{
   "time": "2020-09-09T21:00:00Z",
   "latitude[unit=\"degrees_north\"]": "59.666165",
   "longitude[unit=\"degrees_east\"]": "10.792575",
@@ -82,3 +82,4 @@
   "Kn": null,
   "dni": null
 }
+]
