@@ -1,0 +1,614 @@
+[
+  {
+    "Timestamp": 1599145200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599150600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599150600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599156000000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599161400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599161400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599166800000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599172200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599172200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599177600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599183000000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599183000000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599188400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599193800000,
+    "Total_cloud_cover": 96
+  },
+  {
+    "Timestamp": 1599193800000,
+    "Total_cloud_cover": 92
+  },
+  {
+    "Timestamp": 1599199200000,
+    "Total_cloud_cover": 88
+  },
+  {
+    "Timestamp": 1599204600000,
+    "Total_cloud_cover": 88.33333333333333
+  },
+  {
+    "Timestamp": 1599204600000,
+    "Total_cloud_cover": 88.66666666666667
+  },
+  {
+    "Timestamp": 1599210000000,
+    "Total_cloud_cover": 89
+  },
+  {
+    "Timestamp": 1599215400000,
+    "Total_cloud_cover": 79
+  },
+  {
+    "Timestamp": 1599215400000,
+    "Total_cloud_cover": 69
+  },
+  {
+    "Timestamp": 1599220800000,
+    "Total_cloud_cover": 59
+  },
+  {
+    "Timestamp": 1599226200000,
+    "Total_cloud_cover": 39.33333333333333
+  },
+  {
+    "Timestamp": 1599226200000,
+    "Total_cloud_cover": 19.666666666666664
+  },
+  {
+    "Timestamp": 1599231600000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599237000000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599237000000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599242400000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599247800000,
+    "Total_cloud_cover": 0.3333333333333333
+  },
+  {
+    "Timestamp": 1599247800000,
+    "Total_cloud_cover": 0.6666666666666666
+  },
+  {
+    "Timestamp": 1599253200000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599258600000,
+    "Total_cloud_cover": 1.3333333333333333
+  },
+  {
+    "Timestamp": 1599258600000,
+    "Total_cloud_cover": 1.6666666666666665
+  },
+  {
+    "Timestamp": 1599264000000,
+    "Total_cloud_cover": 2
+  },
+  {
+    "Timestamp": 1599269400000,
+    "Total_cloud_cover": 3.333333333333333
+  },
+  {
+    "Timestamp": 1599269400000,
+    "Total_cloud_cover": 4.666666666666666
+  },
+  {
+    "Timestamp": 1599274800000,
+    "Total_cloud_cover": 6
+  },
+  {
+    "Timestamp": 1599280200000,
+    "Total_cloud_cover": 5
+  },
+  {
+    "Timestamp": 1599280200000,
+    "Total_cloud_cover": 4
+  },
+  {
+    "Timestamp": 1599285600000,
+    "Total_cloud_cover": 3
+  },
+  {
+    "Timestamp": 1599291000000,
+    "Total_cloud_cover": 2
+  },
+  {
+    "Timestamp": 1599291000000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599296400000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599301800000,
+    "Total_cloud_cover": 11.666666666666666
+  },
+  {
+    "Timestamp": 1599301800000,
+    "Total_cloud_cover": 23.333333333333332
+  },
+  {
+    "Timestamp": 1599307200000,
+    "Total_cloud_cover": 35
+  },
+  {
+    "Timestamp": 1599312600000,
+    "Total_cloud_cover": 31
+  },
+  {
+    "Timestamp": 1599312600000,
+    "Total_cloud_cover": 27
+  },
+  {
+    "Timestamp": 1599318000000,
+    "Total_cloud_cover": 23
+  },
+  {
+    "Timestamp": 1599323400000,
+    "Total_cloud_cover": 19
+  },
+  {
+    "Timestamp": 1599323400000,
+    "Total_cloud_cover": 15
+  },
+  {
+    "Timestamp": 1599328800000,
+    "Total_cloud_cover": 11
+  },
+  {
+    "Timestamp": 1599334200000,
+    "Total_cloud_cover": 7.333333333333334
+  },
+  {
+    "Timestamp": 1599334200000,
+    "Total_cloud_cover": 3.666666666666667
+  },
+  {
+    "Timestamp": 1599339600000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599345000000,
+    "Total_cloud_cover": 4
+  },
+  {
+    "Timestamp": 1599345000000,
+    "Total_cloud_cover": 8
+  },
+  {
+    "Timestamp": 1599350400000,
+    "Total_cloud_cover": 12
+  },
+  {
+    "Timestamp": 1599355800000,
+    "Total_cloud_cover": 19
+  },
+  {
+    "Timestamp": 1599355800000,
+    "Total_cloud_cover": 26
+  },
+  {
+    "Timestamp": 1599361200000,
+    "Total_cloud_cover": 33
+  },
+  {
+    "Timestamp": 1599366600000,
+    "Total_cloud_cover": 30
+  },
+  {
+    "Timestamp": 1599366600000,
+    "Total_cloud_cover": 27
+  },
+  {
+    "Timestamp": 1599372000000,
+    "Total_cloud_cover": 24
+  },
+  {
+    "Timestamp": 1599377400000,
+    "Total_cloud_cover": 16.333333333333332
+  },
+  {
+    "Timestamp": 1599377400000,
+    "Total_cloud_cover": 8.666666666666666
+  },
+  {
+    "Timestamp": 1599382800000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599388200000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599388200000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599393600000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599399000000,
+    "Total_cloud_cover": 13.333333333333334
+  },
+  {
+    "Timestamp": 1599399000000,
+    "Total_cloud_cover": 25.666666666666668
+  },
+  {
+    "Timestamp": 1599404400000,
+    "Total_cloud_cover": 38
+  },
+  {
+    "Timestamp": 1599409800000,
+    "Total_cloud_cover": 44
+  },
+  {
+    "Timestamp": 1599409800000,
+    "Total_cloud_cover": 50
+  },
+  {
+    "Timestamp": 1599415200000,
+    "Total_cloud_cover": 56
+  },
+  {
+    "Timestamp": 1599420600000,
+    "Total_cloud_cover": 39
+  },
+  {
+    "Timestamp": 1599420600000,
+    "Total_cloud_cover": 22
+  },
+  {
+    "Timestamp": 1599426000000,
+    "Total_cloud_cover": 5
+  },
+  {
+    "Timestamp": 1599431400000,
+    "Total_cloud_cover": 4
+  },
+  {
+    "Timestamp": 1599431400000,
+    "Total_cloud_cover": 3
+  },
+  {
+    "Timestamp": 1599436800000,
+    "Total_cloud_cover": 2
+  },
+  {
+    "Timestamp": 1599442200000,
+    "Total_cloud_cover": 6.333333333333333
+  },
+  {
+    "Timestamp": 1599442200000,
+    "Total_cloud_cover": 10.666666666666666
+  },
+  {
+    "Timestamp": 1599447600000,
+    "Total_cloud_cover": 15
+  },
+  {
+    "Timestamp": 1599453000000,
+    "Total_cloud_cover": 23.666666666666664
+  },
+  {
+    "Timestamp": 1599453000000,
+    "Total_cloud_cover": 32.33333333333333
+  },
+  {
+    "Timestamp": 1599458400000,
+    "Total_cloud_cover": 41
+  },
+  {
+    "Timestamp": 1599463800000,
+    "Total_cloud_cover": 37.666666666666664
+  },
+  {
+    "Timestamp": 1599463800000,
+    "Total_cloud_cover": 34.333333333333336
+  },
+  {
+    "Timestamp": 1599469200000,
+    "Total_cloud_cover": 31
+  },
+  {
+    "Timestamp": 1599474600000,
+    "Total_cloud_cover": 26
+  },
+  {
+    "Timestamp": 1599474600000,
+    "Total_cloud_cover": 21
+  },
+  {
+    "Timestamp": 1599480000000,
+    "Total_cloud_cover": 16
+  },
+  {
+    "Timestamp": 1599485400000,
+    "Total_cloud_cover": 11
+  },
+  {
+    "Timestamp": 1599485400000,
+    "Total_cloud_cover": 6
+  },
+  {
+    "Timestamp": 1599490800000,
+    "Total_cloud_cover": 1
+  },
+  {
+    "Timestamp": 1599496200000,
+    "Total_cloud_cover": 9.666666666666666
+  },
+  {
+    "Timestamp": 1599496200000,
+    "Total_cloud_cover": 18.333333333333332
+  },
+  {
+    "Timestamp": 1599501600000,
+    "Total_cloud_cover": 27
+  },
+  {
+    "Timestamp": 1599507000000,
+    "Total_cloud_cover": 51.33333333333333
+  },
+  {
+    "Timestamp": 1599507000000,
+    "Total_cloud_cover": 75.66666666666666
+  },
+  {
+    "Timestamp": 1599512400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599517800000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599517800000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599523200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599528600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599528600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599534000000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599539400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599539400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599544800000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599550200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599550200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599555600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599561000000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599561000000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599566400000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599571800000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599571800000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599577200000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599582600000,
+    "Total_cloud_cover": 87
+  },
+  {
+    "Timestamp": 1599582600000,
+    "Total_cloud_cover": 74
+  },
+  {
+    "Timestamp": 1599588000000,
+    "Total_cloud_cover": 61
+  },
+  {
+    "Timestamp": 1599593400000,
+    "Total_cloud_cover": 40.66666666666667
+  },
+  {
+    "Timestamp": 1599593400000,
+    "Total_cloud_cover": 20.333333333333336
+  },
+  {
+    "Timestamp": 1599598800000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599604200000,
+    "Total_cloud_cover": 15.333333333333334
+  },
+  {
+    "Timestamp": 1599604200000,
+    "Total_cloud_cover": 30.666666666666668
+  },
+  {
+    "Timestamp": 1599609600000,
+    "Total_cloud_cover": 46
+  },
+  {
+    "Timestamp": 1599615000000,
+    "Total_cloud_cover": 31.666666666666664
+  },
+  {
+    "Timestamp": 1599615000000,
+    "Total_cloud_cover": 17.333333333333332
+  },
+  {
+    "Timestamp": 1599620400000,
+    "Total_cloud_cover": 3
+  },
+  {
+    "Timestamp": 1599625800000,
+    "Total_cloud_cover": 3.6666666666666665
+  },
+  {
+    "Timestamp": 1599625800000,
+    "Total_cloud_cover": 4.333333333333333
+  },
+  {
+    "Timestamp": 1599631200000,
+    "Total_cloud_cover": 5
+  },
+  {
+    "Timestamp": 1599636600000,
+    "Total_cloud_cover": 5
+  },
+  {
+    "Timestamp": 1599636600000,
+    "Total_cloud_cover": 5
+  },
+  {
+    "Timestamp": 1599642000000,
+    "Total_cloud_cover": 5
+  },
+  {
+    "Timestamp": 1599647400000,
+    "Total_cloud_cover": 20
+  },
+  {
+    "Timestamp": 1599647400000,
+    "Total_cloud_cover": 35
+  },
+  {
+    "Timestamp": 1599652800000,
+    "Total_cloud_cover": 50
+  },
+  {
+    "Timestamp": 1599658200000,
+    "Total_cloud_cover": 66.66666666666667
+  },
+  {
+    "Timestamp": 1599658200000,
+    "Total_cloud_cover": 83.33333333333334
+  },
+  {
+    "Timestamp": 1599663600000,
+    "Total_cloud_cover": 100
+  },
+  {
+    "Timestamp": 1599669000000,
+    "Total_cloud_cover": 94.33333333333333
+  },
+  {
+    "Timestamp": 1599669000000,
+    "Total_cloud_cover": 88.66666666666667
+  },
+  {
+    "Timestamp": 1599674400000,
+    "Total_cloud_cover": 83
+  },
+  {
+    "Timestamp": 1599679800000,
+    "Total_cloud_cover": 55.33333333333333
+  },
+  {
+    "Timestamp": 1599679800000,
+    "Total_cloud_cover": 27.666666666666664
+  },
+  {
+    "Timestamp": 1599685200000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599690600000,
+    "Total_cloud_cover": 0
+  },
+  {
+    "Timestamp": 1599690600000,
+    "Total_cloud_cover": 0
+  }
+]
