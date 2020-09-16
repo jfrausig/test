@@ -1,0 +1,370 @@
+[
+  {
+    "wavelength": 300,
+    "ab": 1730000
+  },
+  {
+    "wavelength": 310,
+    "ab": 1730000
+  },
+  {
+    "wavelength": 320,
+    "ab": 1440000
+  },
+  {
+    "wavelength": 330,
+    "ab": 1280000
+  },
+  {
+    "wavelength": 340,
+    "ab": 1170000
+  },
+  {
+    "wavelength": 350,
+    "ab": 1090000
+  },
+  {
+    "wavelength": 360,
+    "ab": 1040000
+  },
+  {
+    "wavelength": 370,
+    "ab": 1020000
+  },
+  {
+    "wavelength": 380,
+    "ab": 697000
+  },
+  {
+    "wavelength": 390,
+    "ab": 293000
+  },
+  {
+    "wavelength": 400,
+    "ab": 150000
+  },
+  {
+    "wavelength": 410,
+    "ab": 95200
+  },
+  {
+    "wavelength": 420,
+    "ab": 67400
+  },
+  {
+    "wavelength": 430,
+    "ab": 50000
+  },
+  {
+    "wavelength": 440,
+    "ab": 39200
+  },
+  {
+    "wavelength": 450,
+    "ab": 31100
+  },
+  {
+    "wavelength": 460,
+    "ab": 25500
+  },
+  {
+    "wavelength": 470,
+    "ab": 21000
+  },
+  {
+    "wavelength": 480,
+    "ab": 17200
+  },
+  {
+    "wavelength": 490,
+    "ab": 14800
+  },
+  {
+    "wavelength": 500,
+    "ab": 12700
+  },
+  {
+    "wavelength": 510,
+    "ab": 11100
+  },
+  {
+    "wavelength": 520,
+    "ab": 9700
+  },
+  {
+    "wavelength": 530,
+    "ab": 8800
+  },
+  {
+    "wavelength": 540,
+    "ab": 7850
+  },
+  {
+    "wavelength": 550,
+    "ab": 7050
+  },
+  {
+    "wavelength": 560,
+    "ab": 6390
+  },
+  {
+    "wavelength": 570,
+    "ab": 5780
+  },
+  {
+    "wavelength": 580,
+    "ab": 5320
+  },
+  {
+    "wavelength": 590,
+    "ab": 4880
+  },
+  {
+    "wavelength": 600,
+    "ab": 4490
+  },
+  {
+    "wavelength": 610,
+    "ab": 4140
+  },
+  {
+    "wavelength": 620,
+    "ab": 3810
+  },
+  {
+    "wavelength": 630,
+    "ab": 3520
+  },
+  {
+    "wavelength": 640,
+    "ab": 3270
+  },
+  {
+    "wavelength": 650,
+    "ab": 3040
+  },
+  {
+    "wavelength": 660,
+    "ab": 2810
+  },
+  {
+    "wavelength": 670,
+    "ab": 2580
+  },
+  {
+    "wavelength": 680,
+    "ab": 2380
+  },
+  {
+    "wavelength": 690,
+    "ab": 2210
+  },
+  {
+    "wavelength": 700,
+    "ab": 2050
+  },
+  {
+    "wavelength": 710,
+    "ab": 1900
+  },
+  {
+    "wavelength": 720,
+    "ab": 1770
+  },
+  {
+    "wavelength": 730,
+    "ab": 1660
+  },
+  {
+    "wavelength": 740,
+    "ab": 1540
+  },
+  {
+    "wavelength": 750,
+    "ab": 1420
+  },
+  {
+    "wavelength": 760,
+    "ab": 1300
+  },
+  {
+    "wavelength": 770,
+    "ab": 1190
+  },
+  {
+    "wavelength": 780,
+    "ab": 1100
+  },
+  {
+    "wavelength": 790,
+    "ab": 1010
+  },
+  {
+    "wavelength": 800,
+    "ab": 928
+  },
+  {
+    "wavelength": 810,
+    "ab": 850
+  },
+  {
+    "wavelength": 820,
+    "ab": 775
+  },
+  {
+    "wavelength": 830,
+    "ab": 707
+  },
+  {
+    "wavelength": 840,
+    "ab": 647
+  },
+  {
+    "wavelength": 850,
+    "ab": 591
+  },
+  {
+    "wavelength": 860,
+    "ab": 535
+  },
+  {
+    "wavelength": 870,
+    "ab": 480
+  },
+  {
+    "wavelength": 880,
+    "ab": 432
+  },
+  {
+    "wavelength": 890,
+    "ab": 383
+  },
+  {
+    "wavelength": 900,
+    "ab": 343
+  },
+  {
+    "wavelength": 910,
+    "ab": 306
+  },
+  {
+    "wavelength": 920,
+    "ab": 272
+  },
+  {
+    "wavelength": 930,
+    "ab": 240
+  },
+  {
+    "wavelength": 940,
+    "ab": 210
+  },
+  {
+    "wavelength": 950,
+    "ab": 183
+  },
+  {
+    "wavelength": 960,
+    "ab": 157
+  },
+  {
+    "wavelength": 970,
+    "ab": 134
+  },
+  {
+    "wavelength": 980,
+    "ab": 114
+  },
+  {
+    "wavelength": 990,
+    "ab": 95.9
+  },
+  {
+    "wavelength": 1000,
+    "ab": 79.2
+  },
+  {
+    "wavelength": 1010,
+    "ab": 64
+  },
+  {
+    "wavelength": 1020,
+    "ab": 51.1
+  },
+  {
+    "wavelength": 1030,
+    "ab": 39.9
+  },
+  {
+    "wavelength": 1040,
+    "ab": 30.2
+  },
+  {
+    "wavelength": 1050,
+    "ab": 22.6
+  },
+  {
+    "wavelength": 1060,
+    "ab": 16.3
+  },
+  {
+    "wavelength": 1070,
+    "ab": 11.1
+  },
+  {
+    "wavelength": 1080,
+    "ab": 8
+  },
+  {
+    "wavelength": 1090,
+    "ab": 6.2
+  },
+  {
+    "wavelength": 1100,
+    "ab": 4.7
+  },
+  {
+    "wavelength": 1110,
+    "ab": 3.5
+  },
+  {
+    "wavelength": 1120,
+    "ab": 2.7
+  },
+  {
+    "wavelength": 1130,
+    "ab": 2
+  },
+  {
+    "wavelength": 1140,
+    "ab": 1.5
+  },
+  {
+    "wavelength": 1150,
+    "ab": 1
+  },
+  {
+    "wavelength": 1160,
+    "ab": 0.68
+  },
+  {
+    "wavelength": 1170,
+    "ab": 0.42
+  },
+  {
+    "wavelength": 1180,
+    "ab": 0.22
+  },
+  {
+    "wavelength": 1190,
+    "ab": 0.065
+  },
+  {
+    "wavelength": 1200,
+    "ab": 0.036
+  },
+  {
+    "wavelength": 1210,
+    "ab": 0.022
+  }
+]
