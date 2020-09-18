@@ -992,7 +992,7 @@
   {
     "Dato": "01-05-2020",
     "Dag_nr": 61,
-    "Oslo": 3035,
+    "Oslo": 2367,
     "Rogaland": 434,
     "Møre_og_Romsdal": 130,
     "Nordland": 116,
@@ -2547,21 +2547,21 @@
     "Agder": 361,
     "Vestland": 960,
     "Trøndelag": 578,
-    "Troms_og_Finnmark": 606
+    "Troms_og_Finnmark": 301
   },
   {
     "Dato": "13-08-2020",
     "Dag_nr": 165,
-    "Oslo": 4609,
+    "Oslo": 3141,
     "Rogaland": 504,
     "Møre_og_Romsdal": 170,
     "Nordland": 143,
     "Viken": 2801,
-    "Innlandet": 572,
-    "Vestfold_og_Telemark": 399,
-    "Agder": 408,
+    "Innlandet": 531,
+    "Vestfold_og_Telemark": 332,
+    "Agder": 361,
     "Vestland": 955,
-    "Trøndelag": 253,
+    "Trøndelag": 578,
     "Troms_og_Finnmark": 309
   },
   {
@@ -3032,7 +3032,7 @@
   {
     "Dato": "14-09-2020",
     "Dag_nr": 197,
-    "Oslo": 7617,
+    "Oslo": 3774,
     "Rogaland": 587,
     "Møre_og_Romsdal": 196,
     "Nordland": 197,
@@ -3109,7 +3109,7 @@
     "Dag_nr": 202,
     "Oslo": 3981,
     "Rogaland": 599,
-    "Møre_og_Romsdal": 64,
+    "Møre_og_Romsdal": 200,
     "Nordland": 203,
     "Viken": 3630,
     "Innlandet": 613,
