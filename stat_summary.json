@@ -1,0 +1,26 @@
+[
+  {
+    "label": "X Variable 1",
+    "coefficients": [
+      0.7500000000000213
+    ],
+    "standardError": 1.4031215200402283,
+    "tStat": 0.5345224838248639
+  },
+  {
+    "label": "X Variable 2",
+    "coefficients": [
+      5.249999999999982
+    ],
+    "standardError": 2.430277761902947,
+    "tStat": 2.16024689946928
+  },
+  {
+    "label": "Intercept",
+    "coefficients": [
+      13.749999999999943
+    ],
+    "standardError": 7.812249995999868,
+    "tStat": 1.7600563227034978
+  }
+]
