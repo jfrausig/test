@@ -36,18 +36,18 @@
 "LB=F","Lumber Nov 20","Nov_lumber","råvarer",0
 "OJ=F","Orange Juice Jan 21","Juice_juice","mad",0
 "SB=F","Sugar #11 Mar 21","Mar_sugar","mad",0
-"XLB","Materials","","Index",0
-"XLV","Healt_care","","Index",0
-"XLP","Consumer_staples","","Index",0
-"XLY","Consumer_discretionary","","Index",0
-"XLE","Energy","","Index",0
-"XLF","Finance","","Index",0
-"XLI","Industrial","","Index",0
-"XLK","Technology","","Index",0
-"XLU","Utilities","","Index",0
-"XLRE","Real_estate","","Index",0
-"XLC","Communicatinos","","Index",0
-"ICLN","Cleantech","","Index",0
-"XOP","Oil_exploration","","Index",0
-"BTC-USD","Bitcoin","","valuta",0
-"tsla","Tesla","","aktie",0
+"XLB","Materials","Materials","Index",0
+"XLV","Healt_care","Healt_care","Index",0
+"XLP","Consumer_staples","Consumer_staples","Index",0
+"XLY","Consumer_discretionary","Consumer_discretionary","Index",0
+"XLE","Energy","Energy","Index",0
+"XLF","Finance","Finance","Index",0
+"XLI","Industrial","Industrial","Index",0
+"XLK","Technology","Technology","Index",0
+"XLU","Utilities","Utilities","Index",0
+"XLRE","Real_estate","Real_estate","Index",0
+"XLC","Communicatinos","Communicatinos","Index",0
+"ICLN","Cleantech","Cleantech","Index",0
+"XOP","Oil_exploration","Oil_exploration","Index",0
+"BTC-USD","Bitcoin","Bitcoin","valuta",0
+"tsla","Tesla","Tesla","aktie",0
