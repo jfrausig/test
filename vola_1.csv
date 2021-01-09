@@ -1,4 +1,4 @@
-"ticker","variable","aktie","type","future"
+"ticker","variable","Aktie","type","future"
 "ES=F","E-Mini S&P 500 Mar 21","S&P_500","børser",0
 "YM=F","Mini Dow Jones Indus.-$5 Mar 21","Mini_Dow_Jones","børser",0
 "NQ=F","Nasdaq 100 Mar 21","nasdaq","børser",0
