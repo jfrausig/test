@@ -1,0 +1,61 @@
+"ticker","variable","Aktie","type","future"
+"ES=F","E-Mini S&P 500 Mar 21","S&P_500","børser",0
+"YM=F","Mini Dow Jones Indus.-$5 Mar 21","Mini_Dow_Jones","børser",0
+"NQ=F","Nasdaq 100 Mar 21","nasdaq","børser",0
+"RTY=F","E-mini Russell 2000 Index Futur","Russel","børser",0
+"ZB=F","U.S. Treasury Bond Futures,Mar-","US_treasury_bond","bond",0
+"ZN=F","10-Year T-Note Futures,Mar-2021","Futures_10_yr","futures",1
+"ZF=F","Five-Year US Treasury Note Futu","US_treasury_note","bond",0
+"ZT=F","2-Year T-Note Futures,Dec-2020","Futures_2_yr","futures",1
+"GC=F","Gold","Gold","råvarer",0
+"MGC=F","Micro Gold Futures,Feb-2021","Gold_future","råvarer",1
+"SI=F","Silver","Silver","råvarer",0
+"SIL=F","Micro Silver Futures,Mar-2021","Silver_futures","råvarer",1
+"PL=F","Platinum Apr 21","Platinium","råvarer",0
+"HG=F","Copper Mar 21","Copper","råvarer",0
+"PA=F","Palladium Mar 21","Palldium","råvarer",0
+"CL=F","Crude Oil","Oil","brændsel",0
+"HO=F","Heating Oil Jan 21","Heating_oil","brændsel",0
+"NG=F","Natural Gas Feb 21","Natural_gas","brændsel",0
+"RB=F","RBOB Gasoline Jan 21","Gasoline","brændsel",0
+"BZ=F","Brent Crude Oil Last Day Financ","Brent_crude_oil","brændsel",0
+"ZC=F","Corn Futures,Mar-2021","Corn","mad",1
+"ZO=F","Oat Futures,Mar-2021","Oat","mad",1
+"KE=F","KC HRW Wheat Futures,Mar-2021","Wheat","mad",1
+"ZR=F","USD/ZAR - NYCC - Mar21","USA_ZAR","valuta",0
+"ZM=F","Soybean Meal Futures,Mar-2021","Soybean_meal_futures","mad",1
+"ZL=F","Soybean Oil Futures,Mar-2021","Soybean_oil_futures","mad",1
+"ZS=F","Soybean Futures,Mar-2021","Soybean_futures","mad",1
+"GF=F","Feeder Cattle Futures,Mar-2021","Cattle_futures","mad",1
+"HE=F","Lean Hogs Futures,Feb-2021","Hogs_futures","mad",1
+"LE=F","Live Cattle Futures,Feb-2021","Cattle_futures","mad",1
+"CC=F","Cocoa Mar 21","Mar_cocoa","mad",0
+"KC=F","Coffee Mar 21","Mar_coffee","mad",0
+"CT=F","Cotton Mar 21","Mar_cotton","mad",0
+"LB=F","Lumber Nov 20","Nov_lumber","råvarer",0
+"OJ=F","Orange Juice Jan 21","Juice_juice","mad",0
+"SB=F","Sugar #11 Mar 21","Mar_sugar","mad",0
+"XLB","Materials","Materials","Index",0
+"XLV","Healt_care","Healt_care","Index",0
+"XLP","Consumer_staples","Consumer_staples","Index",0
+"XLY","Consumer_discretionary","Consumer_discretionary","Index",0
+"XLE","Energy","Energy","Index",0
+"XLF","Finance","Finance","Index",0
+"XLI","Industrial","Industrial","Index",0
+"XLK","Technology","Technology","Index",0
+"XLU","Utilities","Utilities","Index",0
+"XLRE","Real_estate","Real_estate","Index",0
+"XLC","Communicatinos","Communicatinos","Index",0
+"ICLN","Cleantech","Cleantech","Index",0
+"XOP","Oil_exploration","Oil_exploration","Index",0
+"BTC-USD","Bitcoin","Bitcoin","valuta",0
+"^DJI","Dow","Dow","Exchange",0
+"^NDX","Nasdaq","Nasdaq","Exchange",0
+"^N225","Nikkei","Nikkei","Exchange",0
+"000001.SS","Shanghai","Shanghai","Exchange",0
+"^HSI","Hang_Seng","Hang_Seng","Exchange",0
+"^BSESN","Bombay","Bombay","Exchange",0
+"^GDAXI","Dax","Dax","Exchange",0
+"^SSMI","Swiss","Swiss","Exchange",0
+"^MXX","Mexico","Mexico","Exchange",0
+"^BVSP","Sao_Paulo","Sao_Paulo","Exchange",0
