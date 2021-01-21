@@ -1,0 +1,58 @@
+"Nr","navn","city","lat","lng","country","iso2","admin","capital","population","population_proper","","Groupid","ID","Type","Size"
+3,"REKO-Ringen Ski","Ski",59.716667,10.833333,"Norway","NO","Akershus","minor","","","59.716667,10.833333","rekoski","","offentlig",5
+4,"REKO-Ringen OSLO St.Hanshaugen/Grünerløkka","Oslo",59.916667,10.75,"Norway","NO","Oslo","primary",835000,580000,"59.916667,10.75","rekosthanshaugen","","offentlig",5
+5,"REKO ringen Skøyen","Oslo",59.916667,10.75,"Norway","NO","Oslo","primary",835000,580000,"59.916667,10.75","rekobygdoy","","offentlig",5
+6,"REKO-ringen Follo","Ski",59.716667,10.833333,"Norway","NO","Akershus","minor","","","59.716667,10.833333","",266634880636822,"offentlig",5
+7,"REKO-ringen Frogn","Drøbak",59.663333,10.631111,"Norway","NO","Akershus","minor","","","59.663333,10.631111","",266634880636822,"offentlig",5
+18,"Reko-ringen Sarpsborg","Sarpsborg",59.283333,11.116667,"Norway","NO","Østfold","admin","","","59.283333,11.116667","",375453713240984,"offentlig",5
+51,"REKO-ring Oskarshamn","","","","","","","","","","","rekooskarshamn","","offentlig",5
+1,"Reko-ringen Sandvika","Sandvika",59.891667,10.524722,"Norway","NO","Akershus","minor","","","59.891667,10.524722","REKOSANDVIKA","","privat",5
+2,"REKO-ringen Skien","Skien",59.2,9.6,"Norway","NO","Telemark","admin","","","59.2,9.6","",603260130517161,"privat",5
+8,"REKO-ringen Asker - RETT HJEM","Asker",59.833333,10.433333,"Norway","NO","Akershus","minor","","","59.833333,10.433333","rekoasker","","privat",5
+9,"REKO-ringen Ringerike","Hønefoss",60.166667,10.3,"Norway","NO","Buskerud","minor","","","60.166667,10.3","RekoRngerike","","privat",5
+10,"REKO-RINGEN JESSHEIM","Jessheim",60.15,11.183333,"Norway","NO","Akershus","minor","","","60.15,11.183333","REKOJESSHEIM","","privat",5
+11,"REKO-RINGEN Årnes","Årnes",63.966667,10.233333,"Norway","NO","Sør-Trøndelag","minor","","","63.966667,10.233333","rekoarnes","","privat",5
+12,"REKO-Ringen Lillestrøm","Lillestrøm",59.95,11.083333,"Norway","NO","Akershus","minor","","","59.95,11.083333","rekolillestrom","","privat",5
+13,"REKO-ringen Tønsberg - uten mellomledd.","Tønsberg",59.285833,10.418056,"Norway","NO","Vestfold","admin",38914,38914,"59.285833,10.418056","REKOTONSBERG","","privat",5
+14,"Reko - Ringen Eidsvoll","Eidsvoll",60.316667,11.233333,"Norway","NO","Akershus","minor","","","60.316667,11.233333","",185367628675166,"privat",5
+15,"REKO-ringen Hamar","Hamar",60.8,11.1,"Norway","NO","Hedmark","admin",29479,29479,"60.8,11.1","rekohamar","","privat",5
+16,"REKO-RINGEN HAUGALANDET","Haugesund",59.411944,5.2775,"Norway","NO","Rogaland","minor",40321,32118,"59.411944,5.2775","",489491634779966,"privat",5
+17,"REKO-ringen Valdres","Fagernes",60.983333,9.25,"Norway","NO","Oppland","minor","","","60.983333,9.25","rekovaldres","","privat",5
+19,"REKO-RINGEN HORTEN - uten mellomledd.","","","","","","","","","","","REKOHORTEN","","privat",5
+20,"Reko-ringen Hadeland","","","","","","","","","","","rekohadeland","","privat",5
+21,"Reko-Ringen Elverum","Elverum",60.883333,11.566667,"Norway","NO","Hedmark","minor","","","60.883333,11.566667","",1458149704328210,"privat",5
+22,"Reko-ringen Molde ☀️","Molde",62.733333,7.183333,"Norway","NO","Møre og Romsdal","admin",18594,13749,"62.733333,7.183333","rekomolde","","privat",5
+23,"REKO-ringen Førde","Førde",61.45,5.866667,"Norway","NO","Sogn og Fjordane","minor","","","61.45,5.866667","rekoforde","","privat",5
+24,"REKO-ringen i Holmestrand","","","","","","","","","","","",448746702688236,"privat",5
+25,"REKO-ringen Kongsvinger","Kongsvinger",60.2,12,"Norway","NO","Hedmark","minor","","","60.2,12","rekokongsvinger","","privat",5
+26,"Reko-ringen Tromsø","Tromsø",69.666667,18.966667,"Norway","NO","Troms","admin","","","69.666667,18.966667","rekotromso","","privat",5
+27,"REKO-RINGEN ODDA","Odda",60.066667,6.55,"Norway","NO","Hordaland","minor","","","60.066667,6.55","",296494261022492,"privat",5
+28,"REKO-ringen Larvik","","","","","","","","","","","",2020799494904980,"privat",5
+29,"REKO-ringen Sandefjord","","","","","","","","","","","",374664689681885,"privat",5
+30,"REKO-ringen Kongsberg","Kongsberg",59.65,9.65,"Norway","NO","Buskerud","minor","","","59.65,9.65","REKOkongsberg","","privat",5
+31,"Reko-ring Östersund","","","","","","","","","","","",223799768169477,"privat",5
+32,"Reko-ringen Trysil","Trysil",61.316667,12.266667,"Norway","NO","Hedmark","minor","","","61.316667,12.266667","",188875625751777,"privat",5
+33,"REKO-ring Karlstad","","","","","","","","","","","",124288634806869,"privat",5
+34,"Reko-ringen Fana","","","","","","","","","","","",2377478842509790,"privat",5
+35,"REKO Ringen - Bergen Sentrum","Bergen",60.391111,5.324722,"Norway","NO","Hordaland","admin",213585,187194,"60.391111,5.324722","",229566011437134,"privat",5
+36,"REKO-ringen Bodø","Bodø",67.283333,14.383333,"Norway","NO","Nordland","admin",34073,28694,"67.283333,14.383333","rekobodo","","privat",5
+37,"REKO-ringen Fosen","","","","","","","","","","","",556074644955017,"privat",5
+38,"REKO-RINGEN Trondheim","Trondheim",63.416667,10.416667,"Norway","NO","Sør-Trøndelag","admin",147139,141533,"63.416667,10.416667","rekoRingenTrondheim","","privat",5
+39,"REKO-ringen Støren","Støren",63.03718,10.28558,"Norway","NO","Sør-Trøndelag","minor","","","63.03718,10.28558","",2622018884716220,"privat",5
+40,"REKO-ringen Moholt","","","","","","","","","","","",725774517940973,"privat",5
+41,"REKO-ringen Sunndal","Sunndalsøra",62.666667,8.55,"Norway","NO","Møre og Romsdal","minor","","","62.666667,8.55","",640695116806736,"privat",5
+42,"REKO-ringen Kristiansand - Velkommen!","Kristiansand",58.166667,8,"Norway","NO","Vest-Agder","admin",63814,52770,"58.166667,8","REKOKristiansand","","privat",5
+43,"REKO-Ringen Stryn","Stryn",61.916667,6.783333,"Norway","NO","Sogn og Fjordane","minor","","","61.916667,6.783333","",769668320113360,"privat",5
+44,"REKO-ringen Sogndal","Sogndal",61.23155,7.10268,"Norway","NO","Sogn og Fjordane","minor","","","61.23155,7.10268","",785757611798212,"privat",5
+45,"REKO-ring Umeå","","","","","","","","","","","rekoumea","","privat",5
+46,"REKO-RINGEN VOSS","Voss",60.63182,6.41669,"Norway","NO","Hordaland","minor","","","60.63182,6.41669","",1398173936955500,"privat",5
+47,"REKO-RINGEN Fauske","Fauske",67.25,15.4,"Norway","NO","Nordland","minor","","","67.25,15.4","",2102887583103480,"privat",5
+48,"REKO-ringen Mandal - velkommen!","Mandal",58.033333,7.45,"Norway","NO","Vest-Agder","minor","","","58.033333,7.45","",355384558358244,"privat",5
+49,"REKO-Ring Lund","","","","","","","","","","","",652752628264300,"privat",5
+50,"REKO-ringen Sykkylven","Sykkylven",62.39723,6.58321,"Norway","NO","Møre og Romsdal","minor","","","62.39723,6.58321","",244330229646613,"privat",5
+52,"REKO-ring Skellefteå","","","","","","","","","","","",346087959537528,"privat",5
+53,"REKO-Ringen Midt-Telemark","","","","","","","","","","","",2979035428989200,"privat",5
+54,"REKO-ringen Stjørdal","Stjørdal",63.47025,10.91215,"Norway","NO","Nord-Trøndelag","minor","","","63.47025,10.91215","",790055358095663,"privat",5
+55,"Reko-ring Åredalen","","","","","","","","","","","",348541095860414,"privat",5
+56,"REKO-ringen Narvik og Bjerkvik","Narvik",68.435556,17.437222,"Norway","NO","Nordland","minor",20000,18473,"68.435556,17.437222","",632673697460934,"privat",5
+57,"Reko-ringen Kristiansund","Kristiansund",63.116667,7.75,"Norway","NO","Møre og Romsdal","minor","","","63.116667,7.75","","rekokristiansund","privat",5
