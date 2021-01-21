@@ -1,4 +1,4 @@
-"Nr","Group","city","lat","lng","country","iso2","admin","capital","population","population_proper",""
+"Nr","navn","city","lat","lng","country","iso2","admin","capital","population","population_proper",""
 1,"Reko-ringen Sandvika","Sandvika",59.891667,10.524722,"Norway","NO","Akershus","minor","","","59.891667,10.524722"
 2,"REKO-ringen Skien","Skien",59.2,9.6,"Norway","NO","Telemark","admin","","","59.2,9.6"
 3,"REKO-Ringen Ski","Ski",59.716667,10.833333,"Norway","NO","Akershus","minor","","","59.716667,10.833333"
