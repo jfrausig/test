@@ -1,0 +1,38 @@
+"Niveau_1","Niveau_2","Nivea_3","Start_dato","Slut_dato","Resourcer","Fremskridt","Niveau"
+"1. Forretningsforståelse","1. Forretningsforståelse","1. Forretningsforståelse","01.09.2021","13.09.2021","",25,1
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1 Afgør forretningsmål","01.09.2021","05.09.2021","",10,2
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1 Aktiviteter","01.09.2021","05.09.2021","",11,3
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.1 Udvikle organisationskort","01.09.2021","05.09.2021","",12,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.2 Identificer nøglepersoner","01.09.2021","05.09.2021","",13,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.3 Identificer en intern sponsor","01.09.2021","05.09.2021","",14,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.4 Angiv, om der er en styregruppe","01.09.2021","05.09.2021","",15,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.5 Identificer de forretningsenheder, der er berørt af projektet","01.09.2021","05.09.2021","",16,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2 Vurdere situation","05.09.2021","09.09.2021","",87,2
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3 Afgøre data mål til koncept","09.09.2021","13.09.2021","",21,2
+"2. Data forståelse","2. Data forståelse","2. Data forståelse","13.09.2021","03.10.2021","",83,1
+"2. Data forståelse","2.1 Dataindhentning","2.1 Dataindhentning","13.09.2021","17.09.2021","",52,2
+"2. Data forståelse","2.2. Beskriv data","2.2. Beskriv data","17.09.2021","21.09.2021","",19,2
+"2. Data forståelse","2.2.1 Data kvalitet","2.2.1 Data kvalitet","21.09.2021","25.09.2021","",50,3
+"2. Data forståelse","2.3 Udforsk data","2.3 Udforsk data","25.09.2021","29.09.2021","",63,2
+"2. Data forståelse","2.4 Vurdere driftsløsning til metodik","2.4 Vurdere driftsløsning til metodik","29.09.2021","03.10.2021","",12,2
+"3. Dataforberedelse","3. Dataforberedelse","3. Dataforberedelse","04.10.2021","28.10.2021","",58,1
+"3. Dataforberedelse","3.1. Udvælg data","3.1. Udvælg data","04.10.2021","08.10.2021","",100,2
+"3. Dataforberedelse","3.2 Rengør data","3.2 Rengør data","08.10.2021","12.10.2021","",70,2
+"3. Dataforberedelse","3.3 Konstruere data","3.3 Konstruere data","12.10.2021","16.10.2021","",49,2
+"3. Dataforberedelse","3.4 Integere data","3.4 Integere data","16.10.2021","20.10.2021","",76,2
+"3. Dataforberedelse","3.5 Formatere data","3.5 Formatere data","20.10.2021","24.10.2021","",71,2
+"3. Dataforberedelse","3.6 Sæt data mål for metode","3.6 Sæt data mål for metode","24.10.2021","28.10.2021","",89,2
+"4. Modellering","4. Modellering","4. Modellering","28.10.2021","13.11.2021","",17,1
+"4. Modellering","4.1 Vælg model teknik","4.1 Vælg model teknik","28.10.2021","01.11.2021","",93,2
+"4. Modellering","4.2 Genere test design","4.2 Genere test design","01.11.2021","05.11.2021","",21,2
+"4. Modellering","4.3 Byg model","4.3 Byg model","05.11.2021","09.11.2021","",94,2
+"4. Modellering","4.4. Vurdere model","4.4. Vurdere model","09.11.2021","13.11.2021","",91,2
+"5. Evaluering","5. Evaluering","5. Evaluering","13.11.2021","18.11.2021","",80,1
+"5. Evaluering","5.1 Evaluer resultater","5.1 Evaluer resultater","13.11.2021","17.11.2021","",32,2
+"5. Evaluering","5.2 Vurdere forløb","5.2 Vurdere forløb","17.11.2021","21.11.2021","",88,2
+"5. Evaluering","5.3 Afgør videre trin","5.3 Afgør videre trin","21.11.2021","25.11.2021","",77,2
+"5. Evaluering","6. Implementering","6. Implementering","25.11.2021","30.11.2021","",7,1
+"5. Evaluering","6.1 Planlæg implementering","6.1 Planlæg implementering","25.11.2021","29.11.2021","",92,2
+"5. Evaluering","6.2 Planlæg monitorering og vedlighold","6.2 Planlæg monitorering og vedlighold","29.11.2021","03.12.2021","",13,2
+"5. Evaluering","6.3 Producere rapport","6.3 Producere rapport","03.12.2021","07.12.2021","",7,2
+"5. Evaluering","6.4 Vurdere rapport","6.4 Vurdere rapport","07.12.2021","11.12.2021","",68,2
