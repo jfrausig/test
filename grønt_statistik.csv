@@ -1,0 +1,151 @@
+"Produkter","Verdi_andel_Tallene er inkl. 15 % mva","Salg_i_verdi_1000_NOK_2018","Salg_i_verdi_1000_NOK_2019","Endring_i_%_fra_2018_til_2019","Type","Sum","Lookup_navn","Norsk_2018","Import_2018","Total_2018","Norsk_2019","Import_2019","Total_2019","Endring_2018-2019","Endring_2020-2019_gjennomsnitt","Kg_pr_capita_i_2019","Overordnet_type","Oprindeligt_navn","Folketallet_gjennemsnit_2019","Kg_pr_capita_i_2019__1"
+"Grønnsaker",100,9718303,10149614,4.4,"Grønnsaker","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Grønnsaksfrukter",45,4427949,4566197,3.1,"Grønnsaksfrukter","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Salat_og blad_grønnsaker",14.8,1449684,1502414,3.6,"Salat_og blad_grønnsaker","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rotvekster",12.4,1193964,1255723,5.2,"Rotvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Løk_og purrevekster",10,965204,1010614,4.7,"Løk_og purrevekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kålvekster",9.2,883943,932374,5.5,"Kålvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Urter friske",2.3,226597,237227,4.7,"Urter friske","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sopp",2.2,209927,219508,4.6,"Sopp","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Stengelvekster",2,177731,207093,16.5,"Stengelvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Frø_ og belgvekster",1.6,146633,159804,9,"Frø_ og belgvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Grønnsaker øvrig",0.6,36669,58660,60,"Grønnsaker øvrig","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Grønnsaksfrukter",100,4427949,4566197,3.1,"Grønnsaksfrukter","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Tomat",34.6,1619662,1580574,-2.4,"Grønnsaksfrukter","Enhed","Tomat",12486,24872,37358,12416,24540,36956,-0.011,0.014,6.9,"Grønnsaker","Tomat**",5347896,6.91
+"Agurk",23.6,1052580,1077694,2.4,"Grønnsaksfrukter","Enhed","Agurk",16602,9557,26159,17853,9524,27377,0.047,0.032,5.1,"Grønnsaker","Agurk",5347896,5.12
+"Avokado",20.1,822533,919500,11.8,"Grønnsaksfrukter","Enhed","Avokado",0,12778,12778,0,13959,13959,0.092,0.117,2.6,"FRUKT","Avokado",5347896,2.61
+"Paprika",16.9,740691,772438,4.3,"Grønnsaksfrukter","Enhed","Paprika",91,19539,19630,63,19936,19999,0.019,0.038,3.7,"Grønnsaker","Paprika",5347896,3.74
+"Chili",1.9,76136,85280,12,"Grønnsaksfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Squash",1.7,64787,77084,19,"Grønnsaksfrukter","Enhed","Squash",374,2748,3122,310,2811,3121,0,0.047,0.6,"Grønnsaker","Squash *",5347896,0.58
+"Aubergine",0.5,22145,24915,12.5,"Grønnsaksfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Grønnsaksfrukter øvrige",0.6,29309,28601,-2.4,"Grønnsaksfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Artisjokk",0,106,110,3.7,"Grønnsaksfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kålvekster",100,883943,932374,5.5,"Kålvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Brokkoli",34.8,291333,324685,11.4,"Kålvekster","Enhed","Brokkoli",2972,8498,11470,3148,8700,11848,0.033,0.026,2.2,"Grønnsaker","Brokkoli",5347896,2.22
+"Blomkål",23.7,214981,221040,2.8,"Kålvekster","Enhed","Blomkål",4458,5262,9720,4871,5527,10398,0.07,0.009,1.9,"Grønnsaker","Blomkål",5347896,1.94
+"Hodekål",13.7,128599,127477,-0.9,"Kålvekster","Enhed","Hodekål",9500,1488,10988,9445,2337,11782,0.072,-0.009,2.2,"Grønnsaker","Hodekål",5347896,2.2
+"Kålrot",14.6,131570,135674,3.1,"Kålvekster","Enhed","Kålrot",12530,54,12584,11599,344,11943,-0.051,0.004,2.2,"Grønnsaker","Kålrot",5347896,2.23
+"Kinakål",6.1,57874,56617,-2.2,"Kålvekster","Enhed","Kinakål",1790,1661,3451,1849,1703,3552,0.029,-0.004,0.7,"Grønnsaker","Kinakål",5347896,0.66
+"Rosenkål",3.6,31435,33462,6.4,"Kålvekster","Enhed","Rosenkål",376,318,694,484,396,880,0.268,0.108,0.2,"Grønnsaker","Rosenkål",5347896,0.16
+"Kålvekster øvrige",3.6,28150,33419,18.7,"Kålvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Salat_og blad_grønnsaker",100,1449684,1502414,3.6,"Salat_og blad_grønnsaker","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Isbergsalat",25,376219,375604,-0.2,"Salat_og blad_grønnsaker","Enhed","Isbergsalat",4638,8888,13526,4519,9008,13527,0,-0.018,2.5,"Grønnsaker","Isbergsalat, issalat",5347896,2.53
+"Crispi/vestfold",22,295991,330394,11.6,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Salat_og bladgrønn_saker øvrige",11.2,163205,168790,3.4,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Salatblanding",11.1,173975,167117,-3.9,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rucculasalat",11.4,169111,170726,1,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Hjertesalat",8,116580,120510,3.4,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Spinat",6.9,98056,104303,6.4,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Romano",3.8,44046,56734,28.8,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rapidsalat",0.3,6755,4469,-33.8,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Lollosalat",0.2,4556,2792,-38.7,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Friseé",0,860,642,-25.3,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Riviera",0,90,43,-52.3,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Ekebladsalat",0,243,291,19.8,"Salat_og blad_grønnsaker","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Løk_og purre_vekster",100,965204,1010614,4.7,"Løk_og purre_vekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kepaløk gul",39.1,373792,394792,5.6,"Løk_og purre_vekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kepaløk rød",18.1,185918,182911,-1.6,"Løk_og purre_vekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Vårløk",14.7,134561,148917,10.7,"Løk_og purre_vekster","Enhed","Vårløk",551,979,1530,551,1000,1551,0.014,0.055,0.3,"Grønnsaker","Vårløk",5347896,0.29
+"Hvitløk",12.7,123326,128284,4,"Løk_og purre_vekster","Enhed","Hvitløk",17,1360,1377,22,1343,1365,-0.008,-0.002,0.3,"Grønnsaker","Hvitløk",5347896,0.26
+"Purre",8.8,83772,88434,5.6,"Løk_og purre_vekster","Enhed","Purre",1587,2417,4004,1435,2092,3527,-0.119,-0.041,0.7,"Grønnsaker","Purre",5347896,0.66
+"Sjalottløk",6.2,56045,62183,11,"Løk_og purre_vekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Løk_og purre_vekster øvrige",0.5,7790,5093,-34.6,"Løk_og purre_vekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rotvekster",100,1193964,1255723,5.2,"Rotvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Gulrot",71.5,862873,897515,4,"Rotvekster","Enhed","Gulrot",31627,8199,39826,33641,7284,40925,0.028,0.028,7.7,"Grønnsaker","Gulrot",5347896,7.65
+"Sellerirot",1.8,22568,23111,2.4,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Søtpotet",7.1,85333,89078,4.4,"Rotvekster","Enhed","Søtpotet",10,4217,4227,10,4023,4033,-0.046,0.608,0.8,"Grønnsaker","Søtpotet **",5347896,0.75
+"Ingefærrot",3.1,39447,39379,-0.2,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Persillerot",2.5,30216,32000,5.9,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Reddik",2.1,27777,26808,-3.5,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rotvekster øvrige",1.8,21227,22405,5.6,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rødbeter",1.4,15611,17823,14.2,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Pastinakk",1.1,13382,14147,5.7,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Neper",7.1,70069,88944,26.9,"Rotvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Frø_ og belgvekster",100,146633,159804,9,"Frø_ og belgvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sukkererter",80,115075,127856,11.1,"Frø_ og belgvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Spirer",12.6,10362,8446,-18.5,"Frø_ og belgvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bønner",5.3,16739,20092,20,"Frø_ og belgvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Mais",2.1,4428,3403,-23.2,"Frø_ og belgvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Frø_og belgvekster øvrige",0,29,7,-75.6,"Frø_ og belgvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Urter friske",100,226597,237227,4.7,"Urter friske","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Basilikum",20.5,45683,48708,6.6,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Koriander",16.6,34462,39367,14.2,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kruspersille",13.4,30915,31769,2.8,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Dill",11.4,26540,27069,2,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Oregano",9.7,10730,10573,-1.5,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Timian",5.9,5479,5413,-1.2,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bladpersille",6.2,13370,14614,9.3,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Urter øvrige",4.5,13427,13973,4.1,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Rosmarin",4.4,10206,10446,2.3,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Mynte",3.5,8139,8188,0.6,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sitronmelisse",1.7,6810,4077,-40.1,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Gressløk",2.3,20835,23031,10.5,"Urter friske","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sopp",100,209927,219508,4.6,"Sopp","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sjampinjong",82.6,172386,181260,5.1,"Sopp","Enhed","Sjampinjong",0,7722,7722,0,7843,7843,0.016,0.026,1.5,"Grønnsaker","Sjampinjong og annen sopp",5347896,1.47
+"Aromasopp",8.8,17065,19313,13.2,"Sopp","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kantarell",5.8,14286,12642,-11.5,"Sopp","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sopp øvrige",1.5,3238,3400,5,"Sopp","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Østerssopp",1.3,2953,2894,-2,"Sopp","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Stengelvekster",100,177731,207093,16.5,"Stengelvekster","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Asparges",52.4,102435,108416,5.8,"Stengelvekster","Enhed","Asparges",0,1290,1290,0,1411,1411,0.094,0.042,0.3,"Grønnsaker","Asparges",5347896,0.26
+"Stangselleri",39.8,59421,82481,38.8,"Stengelvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Fennikel",6.8,13904,14079,1.3,"Stengelvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Stengelvekster øvrige",1,1972,2116,7.4,"Stengelvekster","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Frukt/bær","100,0",8321136,8442259,"1,5","Frukt/bær","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bløtfrukter","36,4",3026582,3068854,"1,4","Frukt/bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bær","20,2",1580599,1705542,"7,9","Frukt/bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sitrusfrukter","17,8",1421671,1500174,"5,5","Frukt/bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kjernefrukter","16,0",1414693,1350283,"-4,6","Frukt/bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Steinfrukter","8,8",813398,746986,"-8,2","Frukt/bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Frukter øvrige","0,8",64193,70419,"9,7","Frukt/bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bløtfrukter","100,0",3026582,3068854,"1,4","Bløtfrukter","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Banan","46,9",1418754,1439071,"1,4","Bløtfrukter","Enhed","Banan",0,84510,84510,0,82892,82892,-0.019,0.006,15.5,"FRUKT","Bananer",5347896,15.5
+"Drue","34,6",992517,1061512,"7,0","Bløtfrukter","Enhed","Drue",0,26109,26109,0,25751,25751,-0.014,-0.008,4.8,"FRUKT","Druer",5347896,4.82
+"Melon","11,8",399185,362127,"-9,3","Bløtfrukter","Enhed","Melon",0,29570,29570,0,30058,30058,0.017,0.003,5.6,"FRUKT","Meloner",5347896,5.62
+"Kiwi","4,1",127849,124947,"-2,3","Bløtfrukter","Enhed","Kiwi",0,3741,3741,0,3725,3725,-0.004,-0.04,0.7,"FRUKT","Kiwi",5347896,0.7
+"Ananas","1,3",43509,39551,"-9,1","Bløtfrukter","Enhed","Ananas",0,5183,5183,0,5384,5384,0.039,-0.019,1,"FRUKT","Ananas",5347896,1.01
+"Bløtfrukter øvrige","1,4",44769,41647,"-7,0","Bløtfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kjernefrukter","100,0",1414693,1350283,"-4,6","Kjernefrukter","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Eple","82,4",1143086,1112024,"-2,7","Kjernefrukter","Enhed","Eple",7375,43740,51115,8144,44656,52800,0.033,-0.013,9.9,"FRUKT","Epler",5347896,9.87
+"Pære","17,6",271437,238117,"-12,3","Kjernefrukter","Enhed","Pære",454,17141,17595,325,15774,16099,-0.085,-0.031,3,"FRUKT","Pærer",5347896,3.01
+"Kjernefrukter øvrige","0,0",170,142,"-16,5","Kjernefrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Sitrusfrukter","100,0",1421671,1500174,"5,5","Sitrusfrukter","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Klementin","45,2",608293,678368,"11,5","Sitrusfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Appelsin","35,7",515101,535143,"3,9","Sitrusfrukter","Enhed","Appelsin",0,32506,32506,0,31925,31925,-0.018,-0.019,6,"FRUKT","Appelsiner",5347896,5.97
+"Sitron","12,6",205933,189746,"-7,9","Sitrusfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Lime","4,8",69227,71466,"3,2","Sitrusfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Grapefrukt","1,4",19833,21369,"7,7","Sitrusfrukter","Enhed","Grapefrukt",0,1515,1515,0,1499,1499,-0.011,0.013,0.3,"FRUKT","Grapefrukt",5347896,0.28
+"Sitrusfrukter øvrige","0,3",3283,4082,"24,3","Sitrusfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Poteter","100,0",1429361,1429596,"0,0","Poteter","Kategori","POTETER",2018,2018,2018,2019,2019,2019,0,0,0,"POTETER","POTETER ***",5347896,0.38
+"Poteter øvrige","73,5",909505,1050098,"15,5","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Mandelpotet","12,1",170436,173117,"1,6","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Asterix potet","5,6",192862,80224,"-58,4","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Beate potet","3,7",72122,52646,"-27,0","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Pimpernell potet","1,5",20401,21718,"6,5","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bakepotet","1,9",24330,26811,"10,2","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kerrs pink potet","1,3",27705,19019,"-31,4","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Folva potet","0,4",10543,5120,"-51,4","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Ringerikspotet","0,1",1108,844,"-23,8","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Laila potet","-",348,"-","-100,0","Poteter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bær","100,0",1580599,1705542,"7,9","Bær","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Jordbær","46,7",748131,796512,"6,5","Bær","Enhed","Jordbær",4707,10347,15054,5961,9116,15077,0.001,0.051,2.8,"BÆR","Jordbær",5347896,2.82
+"Blåbær","32,7",509911,556863,"9,2","Bær","Enhed","Blåbær",0,4600,4600,0,4717,4717,0.025,0.191,0.9,"BÆR","Blåbær og andre bær *",5347896,0.88
+"Bringebær","17,0",261825,289364,"10,5","Bær","Enhed","Bringebær",850,1289,2139,1232,1579,2811,0.314,0.124,0.5,"BÆR","Bringebær",5347896,0.53
+"Bær øvrige","1,7",30862,29195,"-5,4","Bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Bjørnebær","1,6",6748,6429,"-4,7","Bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Tyttebær","0,4",23122,27179,"17,5","Bær","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Steinfrukter","100,0",813398,746986,"-8,2","Steinfrukter","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Morell","23,4",203374,174424,"-14,2","Steinfrukter","Enhed","Morell",449,2020,2469,433,1705,2138,-0.134,0.058,0.4,"FRUKT","Kirsebær/Moreller",5347896,0.4
+"Plomme","17,6",170481,131657,"-22,8","Steinfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Nektarin","20,4",163642,152680,"-6,7","Steinfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Mango","28,7",208454,214112,"2,7","Steinfrukter","Enhed","Mango",0,7522,7522,0,7415,7415,-0.014,0.065,1.4,"FRUKT","Mango",5347896,1.39
+"Steinfrukter øvrige","6,9",52810,51758,"-2,0","Steinfrukter","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Fersken","3,0",14637,22356,"52,7","Steinfrukter","Enhed","Fersken",0,8933,8933,0,8935,8935,0,-0.01,1.7,"FRUKT","Fersken/Nektariner",5347896,1.67
+"Frukter øvrige","100,0",64193,70419,"9,7","Frukter øvrige","Kategori","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Frukter øvrige andre","35,0",25177,24654,"-2,1","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Granateple","46,7",25608,32877,"28,4","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Pasjonsfrukt","13,9",9730,9772,"0,4","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kokosnoett","1,9",1712,1345,"-21,5","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Pitahaya","2,5",1886,1757,"-6,8","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Mangostan","0,0",70,13,"-81,4","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
+"Kaktusfiken","0,0",11,1,"-91,4","Frukter øvrige","Enhed","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",5347896,"#N/A"
