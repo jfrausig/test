@@ -1,8 +1,0 @@
-"Periode","Land","Lokation","lat","lng","Uddannelse","img","x_cor","y_cor","id"
-"1986-1992","Grønland","Nuuk",64.17961329,-51.72844046,"Børnehave","https://github.com/jfrausig/test/raw/master/greenland.png",0,0,1
-"2002-2003","Amerika","Wisconsin",44.87589268,-91.69018267,"Udvekslingsstudent","https://github.com/jfrausig/test/raw/master/elk.png",0,0,3
-"2003-2006","Danmark","København",55.37225723,11.65325441,"International baccalauerate","https://github.com/jfrausig/test/raw/master/herluf.png",0,0,4
-"2006-2007","England","Durham",54.76619287,-1.577838121,"Udveksling","https://github.com/jfrausig/test/raw/master/durham.png",0,0,5
-"2007-2010","Danmark","Sønderborg",54.91301779,9.779283131,"Innovation og business ingeniør","https://github.com/jfrausig/test/raw/master/alsion.png",0,0,6
-"2010-2012","Tyskland","Berlin",52.48482922,13.34381317,"Global produktion ingeniør","https://github.com/jfrausig/test/raw/master/gpe.png",0,0,7
-"2019-","Norge","Ås",59.66572467,10.79046089,"Phd kandidate","https://github.com/jfrausig/test/raw/master/nmbu.png",0,0,8
