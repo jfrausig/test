@@ -1,4 +1,4 @@
-"Periode","Land","Lokation","lat","lng","Uddannelse","img","x","y","id"
+"Periode","Land","Lokation","lat","lng","Uddannelse","img","x_cor","y_cor","id"
 "1986-1992","Grønland","Nuuk",64.17961329,-51.72844046,"Børnehave","https://github.com/jfrausig/test/raw/master/greenland.png",0,0,1
 "2002-2003","Amerika","Wisconsin",44.87589268,-91.69018267,"Udvekslingsstudent","https://github.com/jfrausig/test/raw/master/elk.png",0,0,3
 "2003-2006","Danmark","København",55.37225723,11.65325441,"International baccalauerate","https://github.com/jfrausig/test/raw/master/herluf.png",0,0,4
