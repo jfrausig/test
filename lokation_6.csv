@@ -1,0 +1,9 @@
+"Periode","Land","Lokation","lat","lng","Uddannelse","img","x","y","id"
+"1986-1992","Grønland","Nuuk",64.17961329,-51.72844046,"Børnehave","https://vega.github.io/vega-datasets/data/ffox.png",0.5,0.5,1
+"1992-2000","Danmark","Næstved",55.37225723,11.65325441,"Folkeskole","https://vega.github.io/vega-datasets/data/gimp.png",1.5,1.5,2
+"2002-2003","Amerika","Wisconsin",44.87589268,-91.69018267,"Udvekslingsstudent","https://vega.github.io/vega-datasets/data/7zip.png",2.5,2.5,3
+"2003-2006","Danmark","København",55.24418315,11.74687966,"International baccalauerate","https://vega.github.io/vega-datasets/data/ffox.png",0.5,0.5,4
+"2006-2007","England","Durham",54.76619287,-1.577838121,"Udveksling","https://vega.github.io/vega-datasets/data/gimp.png",1.5,1.5,5
+"2007-2010","Danmark","Sønderborg",54.91301779,9.779283131,"Innovation og business ingeniør","https://vega.github.io/vega-datasets/data/7zip.png",2.5,2.5,6
+"2010-2012","Tyskland","Berlin",52.48482922,13.34381317,"Global produktion ingeniør","https://vega.github.io/vega-datasets/data/gimp.png",1.5,1.5,7
+"2019-","Norge","Ås",59.66572467,10.79046089,"Phd kandidate","https://vega.github.io/vega-datasets/data/7zip.png",2.5,2.5,8
