@@ -1,0 +1,116 @@
+"Niveau_1","Niveau_2","Niveau_3","Eksempel","Start_dato","Slut_dato","Resourcer","Fremskridt","Niveau"
+"1. Forretningsforståelse","1. Forretningsforståelse","1. Forretningsforståelse","","01.09.2021","03.12.2021","",25,1
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1 Afgør forretningsmål","","02.09.2021","18.09.2021","",10,2
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1 Organisation","","03.09.2021","04.09.2021","",11,3
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.1 Udvikle organisationskort","","04.09.2021","05.09.2021","",12,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.2 Identificer nøglepersoner","","05.09.2021","06.09.2021","",13,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.3 Identificer en intern sponsor","","06.09.2021","07.09.2021","",14,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.4 Angiv, om der er en styregruppe","","07.09.2021","08.09.2021","",15,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.1.5 Identificer de forretningsenheder, der er berørt af projektet","","08.09.2021","09.09.2021","",16,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2  Problem kompleks","","09.09.2021","10.09.2021","",17,3
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2.1 Identificer problemkomplekset","","10.09.2021","11.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2.2 Beskriv problemet generelt","","11.09.2021","12.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2.3 Kontroller den aktuelle status for projektet","","12.09.2021","13.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2.4 Afklar forudsætningerne for projektet","","13.09.2021","14.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2.5 Identificer målgrupper for projektresultatet","","14.09.2021","15.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.2.6 Identificer brugernes behov og forventninger","","15.09.2021","16.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.2.2.7 Beskriv løsninger, der i øjeblikket bruges til at løse problemet","","16.09.2021","17.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.2.2.8 Beskriv fordelene og ulemperne ved den nuværende løsning","","17.09.2021","18.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.3 Forretningsmål","","18.09.2021","22.09.2021","",17,3
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.3.1 Beskriv uformelt problemkomplekset","","19.09.2021","20.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.3.2 Angiv alle forretningsspørgsmål så præcist som muligt","","20.09.2021","21.09.2021","",17,4
+"1. Forretningsforståelse","1.1 Afgør forretningsmål","1.1.3.3 Angiv forventede forretnings fordele","","21.09.2021","22.09.2021","",17,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2 Vurdere situation","","22.09.2021","02.10.2021","",87,2
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.1 Identificere hardware","","23.09.2021","24.09.2021","",87,3
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.1.1 Etablere tilgjengeligheten av hardware","","24.09.2021","25.09.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2 Identificere data og viden","","25.09.2021","26.09.2021","",87,3
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2.1 Identificere data kilder","","26.09.2021","27.09.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2.2 Identificere typer af data kilder","online, eksperter, dokumentation","27.09.2021","28.09.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2.3 Identificere informations kilder","","28.09.2021","29.09.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2.4 Identificere typer af informations kilder","online, eksperter, dokumentation","29.09.2021","30.09.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2.5 Undersøge tilgængelig værktøjer og tekniker","","30.09.2021","01.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.2.6 Beskriv relevant baggrunds information","","01.10.2021","02.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.3 Identificere forudsætninger","","02.10.2021","07.10.2021","",87,3
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.3.1 Spesifiser målgruppeprofil","","03.10.2021","04.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.3.2 Sett alle krav til planlegging","","04.10.2021","05.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.3.3 Afgør krav til forståelighed, nøjagtighed, implementeringsevne, vedligeholdelsesevne og repeterbarhed","","05.10.2021","06.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.3.4 Afgør krav til sikkerhed, juridiske begrænsninger, privatliv, rapportering og projektplanlægning","","06.10.2021","07.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.4 Risici og uforudsete aspekter","","07.10.2021","13.10.2021","",21,3
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.4.1 Identificer forretningsrisiko","konkurrent kommer først med bedre resultater","08.10.2021","09.10.2021","",21,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.4.2 Identificer organisatoriske risici","afdelingen har ikke finansiering til projektet","09.10.2021","10.10.2021","",21,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.4.3 Identificer økonomiske risici","yderligere finansiering afhænger af de oprindelige data mining resultater","10.10.2021","11.10.2021","",21,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.4.4 Identificer tekniske risici","","11.10.2021","12.10.2021","",21,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.4.5 Identificer risici, der afhænger af data og datakilder","dårlig data kvalitet og dækning","12.10.2021","13.10.2021","",21,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.5 Omkostninger og værdi","","13.10.2021","18.10.2021","",21,3
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.5.1 Estimere data hentning omkostninger","","14.10.2021","15.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.5.2 Estimere udviklingsomkostninger","","15.10.2021","16.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.5.3 Identicere værdiforeslag","","16.10.2021","17.10.2021","",87,4
+"1. Forretningsforståelse","1.2 Vurdere situation","1.2.5.4 Estimere driftsomkostninger","","17.10.2021","18.10.2021","",87,4
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3.1 Oversæt til datamål","","18.10.2021","24.10.2021","",21,3
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3.1.2 Specificere datamålstype","","19.10.2021","20.10.2021","",21,4
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3.1.3 Specificere problem type","numerisk, heuristisk, analytisk","20.10.2021","21.10.2021","",21,4
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3.2 Modelvurdering kriterier","f.eks. Modelnøjagtighed, ydeevne og kompleksitet","21.10.2021","22.10.2021","",21,3
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3.2.2 Definer benchmarks for evaluering","","22.10.2021","23.10.2021","",21,4
+"1. Forretningsforståelse","1.3 Afgøre data mål til koncept","1.3.2.3 Subjektive vurderingskriterier","f.eks. Model forklarer evne og data
+og markedsføringsindsigt leveret af modellen","23.10.2021","24.10.2021","",21,4
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4 Udarbejd projektplan","","24.10.2021","31.10.2021","",21,2
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4.1 Definer procesplan og diskutér gennemførligheden","","25.10.2021","26.10.2021","",21,3
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4.2 Identificerede mål og udvalgte teknikker","","26.10.2021","27.10.2021","",21,3
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4.3 Anslå indsatsen og ressourcerne","","27.10.2021","28.10.2021","",21,3
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4.4 Identificer kritiske trin","","28.10.2021","29.10.2021","",21,3
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4.5 Marker beslutningspunkter","","29.10.2021","30.10.2021","",21,3
+"1. Forretningsforståelse","1.4 Udarbejd projektplan","1.4.6 Identificer større milestene","","30.10.2021","31.10.2021","",21,3
+"2. Data forståelse","2. Data forståelse","2. Data forståelse","","31.10.2021","03.12.2021","",83,1
+"2. Data forståelse","2.1 Dataindhentning","2.1 Dataindhentning","","01.11.2021","06.11.2021","",52,2
+"2. Data forståelse","2.1 Dataindhentning","2.1.1 Angiv udvælgelseskriterier","","02.11.2021","03.11.2021","",87,3
+"2. Data forståelse","2.1 Dataindhentning","2.1.2 Vælg tabeller / filer af interesse","","03.11.2021","04.11.2021","",87,3
+"2. Data forståelse","2.1 Dataindhentning","2.1.3 Vælg data i en tabel / fil","","04.11.2021","05.11.2021","",87,3
+"2. Data forståelse","2.1 Dataindhentning","2.1.4 Overveje tidshoristont","","05.11.2021","06.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2. Beskriv data","","06.11.2021","14.11.2021","",19,2
+"2. Data forståelse","2.2. Beskriv data","2.2.1 Identificer data og metode til registrering","","07.11.2021","08.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2.2 Få adgang til datakilder","","08.11.2021","09.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2.3 Brug eventuelt statistiske analyser","","09.11.2021","10.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2.4 Rapporter tabeller og deres forhold","","10.11.2021","11.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2.5 Kontroller datavolumen","","11.11.2021","12.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2.6 Bemærk fritastningsværdier","","12.11.2021","13.11.2021","",87,3
+"2. Data forståelse","2.2. Beskriv data","2.2.7 Data kvalitet","","13.11.2021","14.11.2021","",50,3
+"2. Data forståelse","2.3 Udforsk data","2.3 Udforsk data","","14.11.2021","23.11.2021","",63,2
+"2. Data forståelse","2.3 Udforsk data","2.3.1 Analyser egenskaber ved interessante attributter","","15.11.2021","16.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.2 Identificer egenskaber i delmængder","","16.11.2021","17.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.3 Form formodninger til fremtidig analyse","","17.11.2021","18.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.4 Evaluer oplysninger i databeskrivelsesrapporten","","18.11.2021","19.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.5 Danne en hypotese og identificere handlinger","","19.11.2021","20.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.6 Omform hypotesen til et data mining-mål","","20.11.2021","21.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.7 Afklar dataudvindingsmål","","21.11.2021","22.11.2021","",63,3
+"2. Data forståelse","2.3 Udforsk data","2.3.8 Udfør grundlæggende analyse for at bekræfte hypotesen","","22.11.2021","23.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4 Kontroller datakvaliteten","","23.11.2021","03.12.2021","",63,2
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.1 Kontroller dækning (f.eks. er alle mulige værdier er repræsenteret)","","24.11.2021","25.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.2 Kontroller nøgleord og kolonnenavne","","25.11.2021","26.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.3 Kontroller, at betydningen af attributter og indeholdte værdier passer sammen","","26.11.2021","27.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.4 Identificer manglende attributter og tomme felter","","27.11.2021","28.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.5 Fastslå betydningen af manglende data","","28.11.2021","29.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.6 Kontroller for attributter med forskellige værdier, der har lignende betydninger (fx lavt fedtindhold, diæt)","","29.11.2021","30.11.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.7 Kontroller stavning og format for værdier (f.eks. Samme værdi, men begynder nogle gange med små bogstaverbrev)","","30.11.2021","01.12.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.8 Kontroller for afvigelser, og beslut, om en afvigelse er “støj” eller kan indikere et interessant fænomen","","01.12.2021","02.12.2021","",63,3
+"2. Data forståelse","2.4 Kontroller datakvaliteten","2.4.9 Kontroller, om værdier er plausible (f.eks. Alle felter, der har de samme eller næsten de samme værdier)","","02.12.2021","03.12.2021","",63,3
+"3. Dataforberedelse","3. Dataforberedelse","3. Dataforberedelse","","03.12.2021","10.12.2021","",58,1
+"3. Dataforberedelse","3.1. Udvælg data","3.1. Udvælg data","","04.12.2021","05.12.2021","",100,2
+"3. Dataforberedelse","3.2 Rengør data","3.2 Rengør data","","05.12.2021","06.12.2021","",70,2
+"3. Dataforberedelse","3.3 Konstruere data","3.3 Konstruere data","","06.12.2021","07.12.2021","",49,2
+"3. Dataforberedelse","3.4 Integere data","3.4 Integere data","","07.12.2021","08.12.2021","",76,2
+"3. Dataforberedelse","3.5 Formatere data","3.5 Formatere data","","08.12.2021","09.12.2021","",71,2
+"3. Dataforberedelse","3.6 Sæt data mål for metode","3.6 Sæt data mål for metode","","09.12.2021","10.12.2021","",89,2
+"4. Modellering","4. Modellering","4. Modellering","","10.12.2021","15.12.2021","",17,1
+"4. Modellering","4.1 Vælg model teknik","4.1 Vælg model teknik","","11.12.2021","12.12.2021","",93,2
+"4. Modellering","4.2 Genere test design","4.2 Genere test design","","12.12.2021","13.12.2021","",21,2
+"4. Modellering","4.3 Byg model","4.3 Byg model","","13.12.2021","14.12.2021","",94,2
+"4. Modellering","4.4. Vurdere model","4.4. Vurdere model","","14.12.2021","15.12.2021","",91,2
+"5. Evaluering","5. Evaluering","5. Evaluering","","15.12.2021","19.12.2021","",80,1
+"5. Evaluering","5.1 Evaluer resultater","5.1 Evaluer resultater","","16.12.2021","17.12.2021","",32,2
+"5. Evaluering","5.2 Vurdere forløb","5.2 Vurdere forløb","","17.12.2021","18.12.2021","",88,2
+"5. Evaluering","5.3 Afgør videre trin","5.3 Afgør videre trin","","18.12.2021","19.12.2021","",77,2
+"6. Implementering","6. Implementering","6. Implementering","","19.12.2021","24.12.2021","",7,1
+"6. Implementering","6.1 Planlæg implementering","6.1 Planlæg implementering","","20.12.2021","21.12.2021","",92,2
+"6. Implementering","6.2 Planlæg monitorering og vedlighold","6.2 Planlæg monitorering og vedlighold","","21.12.2021","22.12.2021","",13,2
+"6. Implementering","6.3 Producere rapport","6.3 Producere rapport","","22.12.2021","23.12.2021","",7,2
+"6. Implementering","6.4 Vurdere rapport","6.4 Vurdere rapport","","23.12.2021","24.12.2021","",68,2
