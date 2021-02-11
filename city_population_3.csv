@@ -1,4 +1,4 @@
-"Rank","Urban area","Population","County","lat","lng","postal_town","administrative_area_level_2","administrative_area_level_1","political","addresse"
+"Indeks","Rank","Urban area","Population","County","lat","lng","postal_town","administrative_area_level_2","administrative_area_level_1","political","addresse"
 0,1,"Oslo",1000467,"Oslo/Viken",59.9138688,10.7522454,0,0,"none","none"
 1,2,"Bergen Metropolitan Area","420 000","Vestland",60.39126279999999,5.3220544,0,0,"none","none"
 2,3,"Stavanger / Sandnes",222697,"Rogaland",58.8532585,5.7329455,0,0,"none","none"
