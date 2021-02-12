@@ -1,4 +1,4 @@
-"Column1","navn","addresse","Org_nr","Sektor","godkjenning","lat","lng","postal_town","administrative_area_level_2","administrative_area_level_1","political","Region"
+"Column1","navn","addresse","Org_nr","Sektor","godkjenning","lat","lng","postal_town","administrative_area_level_2","administrative_area_level_1","political","DVH_regioner"
 0,"Wild Supply AS","Kinnavegen 29 , 5310 HAUGLANDSHELLA","Org. nr. 000 000 000","Foredling, import og omsetning","Gyldig fra 05.03.2020 til 30.12.2021",60.4669672,5.0895294,"Hauglandshella","Askøy","Vestland","none","Vest Norge DVH"
 1,"Wilson Kirsten Aalstveit og Jeremy","Lykkjavegen 212 , 3560 HEMSEDAL","Org. nr. 969 089 874","Økologisk landbruksproduksjon","Gyldig fra 05.03.2020 til 30.12.2021",60.8403499,8.6491887,"Hemsedal","Hemsedal","Viken","none","VIKEN"
 2,"Winepartners Nordic AS","Tollbugata 8 A , 0152 OSLO","Org. nr. 999 647 278","Foredling, import og omsetning","Gyldig fra 01.12.2020 til 30.12.2021",59.9097201,10.7465516,"Oslo","Oslo","Oslo","Sentrum","Oslo DVH"
