@@ -1,4 +1,4 @@
-"Nr","navn","","__1","Longitude","Latitude","city","lat","lng","country","iso2","admin","capital","population","population_proper","__2","Groupid","ID","Type"
+"Nr","navn","","__1","Latitude","Longitude","city","lat","lng","country","iso2","admin","capital","population","population_proper","__2","Groupid","ID","Type"
 3,"REKO-Ringen Ski","Parkeringen foran ishallen","",59.71674768,10.85166658,"Ski",59.716667,10.833333,"Norway","NO","Akershus","minor","","","59.716667,10.833333","rekoski","","offentlig"
 4,"REKO-Ringen OSLO St.Hanshaugen/Grünerløkka","Jysk, meyersgate 7-9-11","Thorvald Meyers gate 7",59.92974484,10.7585533,"Oslo",59.916667,10.75,"Norway","NO","Oslo","primary",835000,580000,"59.916667,10.75","rekosthanshaugen","","offentlig"
 5,"REKO ringen Skøyen","Olsens enke hagesenter","Sigurd Iversens vei 2, 0275 Oslo",59.92355337,10.67075391,"Oslo",59.916667,10.75,"Norway","NO","Oslo","primary",835000,580000,"59.916667,10.75","rekobygdoy","","offentlig"
