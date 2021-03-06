@@ -1,4 +1,4 @@
-"ID","Indeks","City","Country","Population","Last update","Time zone","addresse","longitude","latitude","postal_town","administrative_area_level_2","administrative_area_level_1","political","locality"
+"ID","Indeks","city","Country","Population","Last update","Time zone","addresse","longitude","latitude","postal_town","administrative_area_level_2","administrative_area_level_1","political","locality"
 0,0,"Oslo","Norway",580000,"10.06.2014","Europe/Oslo","Oslo",10.7522454,59.9138688,0,0,"Oslo","none","Oslo"
 1,1,"Bergen","Norway",213585,"3/15/18","Europe/Oslo","Bergen",5.3220544,60.3912628,0,0,"Vestland","none","Bergen"
 2,2,"Trondheim","Norway",147139,"2/26/19","Europe/Oslo","Trondheim",10.3950528,63.4305149,0,0,"Trøndelag","none","Trondheim"
